@@ -55,3 +55,9 @@
 2023-09-28 00:29:36,097 - ERROR: publish: MQTT client is not connected!
 2023-09-28 00:29:36,098 - INFO: Reconnecting in 1 seconds...
 2023-09-28 00:29:37,204 - INFO: Reconnected successfully!
+2023-09-28 00:29:39,347 - ERROR: Failed to connect, return code 5
+2023-09-28 00:29:39,348 - INFO: Disconnected with result code: 5
+2023-09-28 00:29:39,348 - INFO: Publishing Last Will message...
+2023-09-28 00:29:39,348 - ERROR: publish: MQTT client is not connected!
+2023-09-28 00:29:39,349 - INFO: Reconnecting in 1 seconds...
+2023-09-28 00:29:40,434 - INFO: Reconnected successfully!
