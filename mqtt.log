@@ -1,91 +1,44 @@
-2023-09-28 00:39:51,259 - INFO: Disconnected with result code: 7
-2023-09-28 00:39:51,259 - INFO: Publishing Last Will message...
-2023-09-28 00:39:51,259 - ERROR: publish: MQTT client is not connected!
-2023-09-28 00:39:51,259 - INFO: Reconnecting in 1 seconds...
-2023-09-28 00:39:52,342 - INFO: Reconnected successfully!
-2023-09-28 00:39:53,516 - ERROR: Failed to connect, return code 5
-2023-09-28 00:39:53,518 - INFO: Disconnected with result code: 5
-2023-09-28 00:39:53,518 - INFO: Publishing Last Will message...
-2023-09-28 00:39:53,518 - ERROR: publish: MQTT client is not connected!
-2023-09-28 00:39:53,519 - INFO: Reconnecting in 1 seconds...
-2023-09-28 00:39:54,746 - INFO: Reconnected successfully!
-2023-09-28 00:39:56,900 - ERROR: Failed to connect, return code 5
-2023-09-28 00:39:56,913 - INFO: Disconnected with result code: 5
-2023-09-28 00:39:56,913 - INFO: Publishing Last Will message...
-2023-09-28 00:39:56,913 - ERROR: publish: MQTT client is not connected!
-2023-09-28 00:39:56,913 - INFO: Reconnecting in 1 seconds...
-2023-09-28 00:39:58,027 - INFO: Reconnected successfully!
-2023-09-28 00:40:02,451 - ERROR: Failed to connect, return code 5
-2023-09-28 00:40:02,453 - INFO: Disconnected with result code: 5
-2023-09-28 00:40:02,453 - INFO: Publishing Last Will message...
-2023-09-28 00:40:02,453 - ERROR: publish: MQTT client is not connected!
-2023-09-28 00:40:02,453 - INFO: Reconnecting in 1 seconds...
-2023-09-28 00:40:03,556 - INFO: Reconnected successfully!
-2023-09-28 00:40:11,697 - ERROR: Failed to connect, return code 5
-2023-09-28 00:40:11,699 - INFO: Disconnected with result code: 5
-2023-09-28 00:40:11,700 - INFO: Publishing Last Will message...
-2023-09-28 00:40:11,700 - ERROR: publish: MQTT client is not connected!
-2023-09-28 00:40:11,700 - INFO: Reconnecting in 1 seconds...
-2023-09-28 00:40:12,790 - INFO: Reconnected successfully!
-2023-09-28 00:40:29,425 - ERROR: Failed to connect, return code 5
-2023-09-28 00:40:29,427 - INFO: Disconnected with result code: 5
-2023-09-28 00:40:29,427 - INFO: Publishing Last Will message...
-2023-09-28 00:40:29,427 - ERROR: publish: MQTT client is not connected!
-2023-09-28 00:40:29,427 - INFO: Reconnecting in 1 seconds...
-2023-09-28 00:40:30,521 - INFO: Reconnected successfully!
-2023-09-28 00:41:03,092 - ERROR: Failed to connect, return code 5
-2023-09-28 00:41:03,093 - INFO: Disconnected with result code: 5
-2023-09-28 00:41:03,094 - INFO: Publishing Last Will message...
-2023-09-28 00:41:03,094 - ERROR: publish: MQTT client is not connected!
-2023-09-28 00:41:03,094 - INFO: Reconnecting in 1 seconds...
-2023-09-28 00:41:04,171 - INFO: Reconnected successfully!
-2023-09-28 00:42:08,896 - ERROR: Failed to connect, return code 5
-2023-09-28 00:42:08,897 - INFO: Disconnected with result code: 5
-2023-09-28 00:42:08,898 - INFO: Publishing Last Will message...
-2023-09-28 00:42:08,898 - ERROR: publish: MQTT client is not connected!
-2023-09-28 00:42:08,898 - INFO: Reconnecting in 1 seconds...
-2023-09-28 00:42:09,990 - INFO: Reconnected successfully!
-2023-09-28 00:42:35,543 - INFO: Connected to MQTT Broker!
-2023-09-28 00:42:35,544 - INFO: Received `0000000000000000` from `NVZ/DGT` topic
-2023-09-28 00:42:35,545 - INFO: Received `812:150` from `NVZ/TBU` topic
-2023-09-28 00:42:35,545 - INFO: Received `-0.65:25.51:42.96:9.200:5967.` from `NVZ/ANALOG` topic
-2023-09-28 00:42:35,546 - INFO: Received `207:8500` from `NVZ/RTD` topic
-2023-09-28 00:42:35,546 - INFO: Received `-20:210:384:0:-206:517:515:996:148:1021175` from `NVZ/COMPRESS/CP11` topic
-2023-09-28 00:42:35,546 - INFO: Received `0:0:0:0:0:0:0:0:0:0` from `NVZ/COMPRESS/CP16` topic
-2023-09-28 00:42:35,546 - INFO: Received `0:0:0:0:0:0:0:0:0:0` from `NVZ/COMPRESS/CP17` topic
-2023-09-28 00:42:35,546 - INFO: Received `204:888:292:72:-78:772:370:988:323:32238` from `NVZ/COMPRESS/CP18` topic
-2023-09-28 00:42:35,546 - INFO: Received `280:740:10:0:239:266:213:0:0:51177` from `NVZ/COMPRESS/CP12` topic
-2023-09-28 00:42:35,547 - INFO: Received `-12:90:120:0:-298:752:521:1000:396:603979776` from `NVZ/COMPRESS/CP20` topic
-2023-09-28 00:42:35,547 - INFO: Received `-1:90:121:0:-307:749:499:1000:453:603979776` from `NVZ/COMPRESS/CP21` topic
-2023-09-28 00:42:35,547 - INFO: Received `221:92:131:0:-80:454:436:496:389:697368576` from `NVZ/COMPRESS/CP22` topic
-2023-09-28 00:42:35,547 - INFO: Received `1.0:4082.4:0.0:2299426.0:574701.0:2:3951.36` from `NVZ/SGATE` topic
-2023-09-28 00:42:35,547 - INFO: Received `11100111011110` from `NVZ/MB_HAB` topic
-2023-09-28 00:42:35,547 - INFO: Received `:1.0:1.0:0.0:3961.44` from `NVZ/SGATE2` topic
-2023-09-28 00:42:35,547 - INFO: Received `1042:3827:6436:9862:5967` from `NVZ/ANL` topic
-2023-09-28 00:42:35,548 - INFO: Received `178.913:172.940:10.08.2023.17.26` from `CESS/OUT/TH` topic
-2023-09-28 00:42:35,548 - INFO: Received `29:35:34:19:-7484` from `CESS/OUT/ANL` topic
-2023-09-28 00:42:35,548 - INFO: Received `0:0:0:0:10.08.2023.17.17` from `CESS/OUT/ANE` topic
-2023-09-28 00:42:35,563 - INFO: Received `9:1:11.07.2023.17.32` from `CESS/OUT/ANE/ERR` topic
-2023-09-28 00:42:35,563 - INFO: Received `0:N:0` from `CESS/OUT/AMC01/J` topic
-2023-09-28 00:42:35,563 - INFO: Received `0:N:0` from `CESS/OUT/AMC01/K` topic
-2023-09-28 00:42:35,563 - INFO: Received `0:N:0` from `CESS/OUT/AMC01/L` topic
-2023-09-28 00:42:35,564 - INFO: Received `0:N:0` from `CESS/OUT/AMC01/M` topic
-2023-09-28 00:42:35,564 - INFO: Received `0:N:0` from `CESS/OUT/AMC01/N` topic
-2023-09-28 00:42:35,564 - INFO: Received `0:N:0` from `CESS/OUT/AMC01/O` topic
-2023-09-28 00:42:35,564 - INFO: Received `0:N:0` from `CESS/OUT/AMC01/P` topic
-2023-09-28 00:42:35,564 - INFO: Received `1:N:87` from `CESS/OUT/AMC01/A` topic
-2023-09-28 00:42:35,564 - INFO: Received `0:N:0` from `CESS/OUT/AMC01/C` topic
-2023-09-28 00:42:35,565 - INFO: Received `0:N:0` from `CESS/OUT/AMC01/D` topic
-2023-09-28 00:42:35,565 - INFO: Received `0:N:0` from `CESS/OUT/AMC01/E` topic
-2023-09-28 00:42:35,565 - INFO: Received `0:N:0` from `CESS/OUT/AMC01/F` topic
-2023-09-28 00:42:35,565 - INFO: Received `0:N:0` from `CESS/OUT/AMC01/G` topic
-2023-09-28 00:42:35,565 - INFO: Received `0:N:0` from `CESS/OUT/AMC01/H` topic
-2023-09-28 00:42:35,565 - INFO: Received `0:N:0` from `CESS/OUT/AMC01/I` topic
-2023-09-28 00:42:35,566 - INFO: Received `0:N:0` from `CESS/OUT/AMC01/B` topic
-2023-09-28 00:42:35,566 - INFO: Received `10.08.2023.17.26` from `CESS/OUT/ID/LMS` topic
-2023-09-28 00:42:35,566 - INFO: Received `CESS_BCD325.10.08.2023.17.07` from `CESS/OUT/ID/GPS` topic
-2023-09-28 00:42:35,566 - INFO: Received `MSR20TESTE280623` from `CESS/OUT/ID/VRS` topic
-2023-09-28 00:42:35,566 - INFO: Received `0010110000000000` from `CESS/SETUP/HAB` topic
-2023-09-28 00:42:35,566 - INFO: Received `001500:0150` from `CESS/SETUP/ANE/PER` topic
-2023-09-28 00:42:35,566 - INFO: Received `0` from `CESS/SETUP/ANE/VELA` topic
-2023-09-28 00:42:35,567 - INFO: Received `00000000000000000000` from `CESS/SETUP/MONIT` topic
+2023-09-28 00:50:58,897 - INFO: Connected to MQTT Broker!
+2023-09-28 00:50:58,899 - INFO: Received `0000000000000000` from `NVZ/DGT` topic
+2023-09-28 00:50:58,900 - INFO: Received `799:150` from `NVZ/TBU` topic
+2023-09-28 00:50:58,900 - INFO: Received `-0.64:31.92:47.32:9.130:5784.` from `NVZ/ANALOG` topic
+2023-09-28 00:50:58,900 - INFO: Received `207:8500` from `NVZ/RTD` topic
+2023-09-28 00:50:58,900 - INFO: Received `-20:187:384:0:-207:506:500:996:0:1021175` from `NVZ/COMPRESS/CP11` topic
+2023-09-28 00:50:58,900 - INFO: Received `0:0:0:0:0:0:0:0:0:0` from `NVZ/COMPRESS/CP16` topic
+2023-09-28 00:50:58,900 - INFO: Received `0:0:0:0:0:0:0:0:0:0` from `NVZ/COMPRESS/CP17` topic
+2023-09-28 00:50:58,900 - INFO: Received `170:890:286:79:-75:795:369:988:309:32238` from `NVZ/COMPRESS/CP18` topic
+2023-09-28 00:50:58,901 - INFO: Received `290:736:11:0:238:258:208:0:0:51177` from `NVZ/COMPRESS/CP12` topic
+2023-09-28 00:50:58,901 - INFO: Received `-12:92:122:0:-299:754:522:1000:399:604045312` from `NVZ/COMPRESS/CP20` topic
+2023-09-28 00:50:58,901 - INFO: Received `-1:92:122:0:-307:750:499:1000:453:604045312` from `NVZ/COMPRESS/CP21` topic
+2023-09-28 00:50:58,901 - INFO: Received `187:92:130:0:-82:463:435:350:354:697368576` from `NVZ/COMPRESS/CP22` topic
+2023-09-28 00:50:58,901 - INFO: Received `1.0:4082.4:0.0:2300038.0:575313.4:2:3986.64` from `NVZ/SGATE` topic
+2023-09-28 00:50:58,901 - INFO: Received `11100111011110` from `NVZ/MB_HAB` topic
+2023-09-28 00:50:58,901 - INFO: Received `:1.0:1.0:0.0:3956.4` from `NVZ/SGATE2` topic
+2023-09-28 00:50:58,901 - INFO: Received `1052:4768:7108:9804:5784` from `NVZ/ANL` topic
+2023-09-28 00:50:58,901 - INFO: Received `178.913:172.940:10.08.2023.17.26` from `CESS/OUT/TH` topic
+2023-09-28 00:50:58,902 - INFO: Received `29:35:34:19:-7484` from `CESS/OUT/ANL` topic
+2023-09-28 00:50:58,902 - INFO: Received `0:0:0:0:10.08.2023.17.17` from `CESS/OUT/ANE` topic
+2023-09-28 00:50:58,902 - INFO: Received `9:1:11.07.2023.17.32` from `CESS/OUT/ANE/ERR` topic
+2023-09-28 00:50:58,902 - INFO: Received `0:N:0` from `CESS/OUT/AMC01/J` topic
+2023-09-28 00:50:58,902 - INFO: Received `0:N:0` from `CESS/OUT/AMC01/K` topic
+2023-09-28 00:50:58,902 - INFO: Received `0:N:0` from `CESS/OUT/AMC01/L` topic
+2023-09-28 00:50:58,902 - INFO: Received `0:N:0` from `CESS/OUT/AMC01/M` topic
+2023-09-28 00:50:58,902 - INFO: Received `0:N:0` from `CESS/OUT/AMC01/N` topic
+2023-09-28 00:50:58,902 - INFO: Received `0:N:0` from `CESS/OUT/AMC01/O` topic
+2023-09-28 00:50:58,903 - INFO: Received `0:N:0` from `CESS/OUT/AMC01/P` topic
+2023-09-28 00:50:58,903 - INFO: Received `1:N:87` from `CESS/OUT/AMC01/A` topic
+2023-09-28 00:50:58,903 - INFO: Received `0:N:0` from `CESS/OUT/AMC01/C` topic
+2023-09-28 00:50:58,903 - INFO: Received `0:N:0` from `CESS/OUT/AMC01/D` topic
+2023-09-28 00:50:58,903 - INFO: Received `0:N:0` from `CESS/OUT/AMC01/E` topic
+2023-09-28 00:50:58,903 - INFO: Received `0:N:0` from `CESS/OUT/AMC01/F` topic
+2023-09-28 00:50:58,903 - INFO: Received `0:N:0` from `CESS/OUT/AMC01/G` topic
+2023-09-28 00:50:58,903 - INFO: Received `0:N:0` from `CESS/OUT/AMC01/H` topic
+2023-09-28 00:50:58,903 - INFO: Received `0:N:0` from `CESS/OUT/AMC01/I` topic
+2023-09-28 00:50:58,903 - INFO: Received `0:N:0` from `CESS/OUT/AMC01/B` topic
+2023-09-28 00:50:58,903 - INFO: Received `10.08.2023.17.26` from `CESS/OUT/ID/LMS` topic
+2023-09-28 00:50:58,903 - INFO: Received `CESS_BCD325.10.08.2023.17.07` from `CESS/OUT/ID/GPS` topic
+2023-09-28 00:50:58,903 - INFO: Received `MSR20TESTE280623` from `CESS/OUT/ID/VRS` topic
+2023-09-28 00:50:58,904 - INFO: Received `0010110000000000` from `CESS/SETUP/HAB` topic
+2023-09-28 00:50:58,904 - INFO: Received `001500:0150` from `CESS/SETUP/ANE/PER` topic
+2023-09-28 00:50:58,904 - INFO: Received `0` from `CESS/SETUP/ANE/VELA` topic
+2023-09-28 00:50:58,904 - INFO: Received `00000000000000000000` from `CESS/SETUP/MONIT` topic

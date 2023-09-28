@@ -131,19 +131,11 @@ def start_file_monitoring():
     observer.join()
 
 if __name__ == '__main__':
-    BROKER = os.environ.get('BROKER')
-    PORT = int(os.environ.get('PORT'))
-    TOPIC = os.environ.get('TOPIC')
-    USERNAME = os.environ.get('USERNAME')
-    PASSWORD = os.environ.get('PASSWORD')
-    
-    print('Starting MQTT Client...')
-    print('Broker: ', BROKER)
-    print('Port: ', PORT)
-    print('Topic: ', TOPIC)
-    print('Username: ', USERNAME)
-    print('Password: ', PASSWORD)
-
+    BROKER = os.getenv('BROKER')
+    PORT = int(os.getenv('PORT'))
+    TOPIC = os.getenv('TOPIC')
+    USERNAME = 'dvp_aSs@23_'
+    PASSWORD = os.getenv('PASSWORD')
 
     FLAG_EXIT = False
 
