@@ -115,7 +115,7 @@ class MyHandler(FileSystemEventHandler):
 
 # Função para criar o observador e iniciar o loop de monitoramento
 def start_file_monitoring():
-    folder_to_watch = "./"   # Substitua pelo caminho para sua pasta de logs
+    folder_to_watch = "./" # Pasta atual
 
     event_handler = MyHandler()
     observer = Observer()
@@ -130,22 +130,30 @@ def start_file_monitoring():
         observer.stop()
     observer.join()
 
-BROKER = os.environ.get('BROKER')
-PORT = int(os.environ.get('PORT'))
-TOPIC = os.environ.get('TOPIC')
-USERNAME = os.environ.get('USERNAME')
-PASSWORD = os.environ.get('PASSWORD')
-
-FLAG_EXIT = False
 if __name__ == '__main__':
+    BROKER = os.environ.get('BROKER')
+    PORT = int(os.environ.get('PORT'))
+    TOPIC = os.environ.get('TOPIC')
+    USERNAME = os.environ.get('USERNAME')
+    PASSWORD = os.environ.get('PASSWORD')
+    
+    print('Starting MQTT Client...')
+    print('Broker: ', BROKER)
+    print('Port: ', PORT)
+    print('Topic: ', TOPIC)
+    print('Username: ', USERNAME)
+    print('Password: ', PASSWORD)
 
-    # Inicie o monitoramento de arquivos em segundo plano
+
+    FLAG_EXIT = False
+
+    # Inicia o monitoramento de arquivos em segundo plano
     import threading
     file_monitoring_thread = threading.Thread(target=start_file_monitoring)
     file_monitoring_thread.daemon = True
     file_monitoring_thread.start()
 
-    # Inicie o cliente MQTT em um loop de eventos asyncio
+    # Inicia o cliente MQTT em um loop de eventos asyncio
     mqtt_client = MQTTClient(BROKER, PORT, TOPIC, USERNAME, PASSWORD)
     print('Client Mqtt is Running')
     asyncio.run(mqtt_client.start())
