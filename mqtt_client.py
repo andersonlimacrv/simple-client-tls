@@ -103,7 +103,7 @@ class MQTTClient:
 def execute_git_commands():
     os.system("git add .")
     os.system('git commit -m "update log mqtt"')
-    os.system("git push")
+    os.system("git push origin main")
 
 # Função para lidar com eventos de alteração de arquivos
 class MyHandler(FileSystemEventHandler):
