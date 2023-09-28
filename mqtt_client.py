@@ -130,14 +130,14 @@ def start_file_monitoring():
         observer.stop()
     observer.join()
 
-if __name__ == '__main__':
-    BROKER = os.environ.get('BROKER')
-    PORT = int(os.environ.get('PORT'))
-    TOPIC = os.environ.get('TOPIC')
-    USERNAME = os.environ.get('USERNAME')
-    PASSWORD = os.environ.get('PASSWORD')
+BROKER = os.environ.get('BROKER')
+PORT = int(os.environ.get('PORT'))
+TOPIC = os.environ.get('TOPIC')
+USERNAME = os.environ.get('USERNAME')
+PASSWORD = os.environ.get('PASSWORD')
 
-    FLAG_EXIT = False
+FLAG_EXIT = False
+if __name__ == '__main__':
 
     # Inicie o monitoramento de arquivos em segundo plano
     import threading
