@@ -76,7 +76,90 @@ class MQTTClient:
         FLAG_EXIT = True
 
     def on_message(self, client, userdata, msg):
-        logging.info(f'Received `{msg.payload.decode()}` from `{msg.topic}` topic')
+        topic_prefixes = [
+            "NVZ/COMPRESS",
+            "NVZ/SGATE2",
+            "NVZ/SGATE",
+            "NVZ/ANL",
+            "NVZ/ANALOG",
+            "NVZ/DGT",
+            "NVZ/RTD",
+            "NVZ/TBU",
+            "NVZ/MB_HAB"
+        ]
+
+        payload = msg.payload.decode()
+        topic = msg.topic
+
+        for prefix in topic_prefixes:
+            if topic.startswith(prefix):
+                if prefix == "NVZ/TBU":
+                    data = payload.split(":")
+                    if len(data) == 2:
+                        json_data = {
+                            "Umid": data[0],
+                            "Temp": data[1],
+                        }
+                        formatted_message = f"-t {topic} -m {json.dumps(json_data, indent=4)}"
+                        logging.info(formatted_message)
+                    else:
+                        logging.error(f"Received invalid message from {msg.topic}: {payload}")
+                if prefix == "NVZ/SGATE2":
+                    data = payload.split(":")
+                    if len(data) == 4:
+                        json_data = {
+                            "FatorPotenciaMedia15min": data[0],
+                            "FatorPotenciaIntervaloHora": data[1],
+                            "DemandaReativaLastHora": data[2],
+                            "DemantaAtivaLastHora": data[3],
+                        }
+                        formatted_message = f"-t {topic} -m {json.dumps(json_data, indent=4)}"
+                        logging.info(formatted_message)
+                    else:
+                        logging.error(f"Received invalid message from {msg.topic}: {payload}")
+                if prefix == "NVZ/SGATE":
+                    data = payload.split(":")
+                    if len(data) == 7:
+                        json_data = {
+                            "FatorPotenciaInstante": data[0],
+                            "DemandaAtivaInstante": data[1],
+                            "DemandaReativaInstante": data[2],
+                            "ConsumoAtivoTotal": data[3],
+                            "PeriodoMedicao": data[4],
+                            "ConsumoAtivoPeriodo": data[5],
+                            "DemandaAtivaMedia15min": data[6],
+                        }
+                        formatted_message = f"-t {topic} -m {json.dumps(json_data, indent=4)}"
+                        logging.info(formatted_message)
+                    else:
+                        logging.error(f"Received invalid message from {msg.topic}: {payload}")
+                if prefix == "NVZ/COMPRESS":
+                    data = payload.split(":")
+                    if len(data) == 10:
+                        json_data = {
+                           "PressSuccao": data[0],
+                            "PressDesc": data[1],
+                            "PressOleoReserv": data[2],
+                            "PressOleoFiltro": data[3],
+                            "TempSuccao": data[4],
+                            "TempOleo": data[5],
+                            "TempDesc": data[6],
+                            "CapacidadeCP": data[7],
+                            "Corrente": data[8],
+                            "Horimetro": data[9],
+                            #"Status": data[9],
+                            #"FreqInv": data[10],
+                            #"AberturaSlide": data[11],
+                            #"SetupPress": data[12],
+                        }
+
+                        formatted_message = f"-t {topic} -m {json.dumps(json_data, indent=4)}"
+                        logging.info(formatted_message)
+                    else:
+                        logging.error(f"Received invalid message from {msg.topic}: {payload}")
+                else:
+                    logging.info(f'Received `{msg.payload.decode()}` from `{msg.topic}` ')
+                break
 
     def publish(self, payload):
         if not self.client.is_connected():
@@ -134,21 +217,23 @@ if __name__ == '__main__':
     BROKER = os.getenv('BROKER')
     PORT = int(os.getenv('PORT'))
     TOPIC = os.getenv('TOPIC')
-    USERNAME = 'dvp_aSs@23_'
+    USERNAME_CLIENT = 'dvp_aSs@23_'
     PASSWORD = os.getenv('PASSWORD')
+    #print(f'Broker: {BROKER}, Port: {PORT}, Topic: {TOPIC}, Username: {USERNAME_CLIENT}, Password: {PASSWORD}')
 
     FLAG_EXIT = False
 
     # Inicia o monitoramento de arquivos em segundo plano
-    
+    '''
     import threading
     file_monitoring_thread = threading.Thread(target=start_file_monitoring)
     file_monitoring_thread.daemon = True
     file_monitoring_thread.start()
+    '''
     
 
     # Inicia o cliente MQTT em um loop de eventos asyncio
-    mqtt_client = MQTTClient(BROKER, PORT, TOPIC, USERNAME, PASSWORD)
+    mqtt_client = MQTTClient(BROKER, PORT, TOPIC, USERNAME_CLIENT, PASSWORD)
     print('Client Mqtt is Running')
     asyncio.run(mqtt_client.start())
     mqtt_client.disconnect()
