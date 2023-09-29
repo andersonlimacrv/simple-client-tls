@@ -224,12 +224,12 @@ if __name__ == '__main__':
     FLAG_EXIT = False
 
     # Inicia o monitoramento de arquivos em segundo plano
-    '''
+    
     import threading
     file_monitoring_thread = threading.Thread(target=start_file_monitoring)
     file_monitoring_thread.daemon = True
     file_monitoring_thread.start()
-    '''
+    
     
 
     # Inicia o cliente MQTT em um loop de eventos asyncio
