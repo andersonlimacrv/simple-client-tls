@@ -1,0 +1,3349 @@
+2023-09-29 07:22:01,008 - INFO: Connected to MQTT Broker!
+2023-09-29 07:22:01,009 - INFO: Received `0000000000000000` from `NVZ/DGT` 
+2023-09-29 07:22:01,010 - INFO: -t NVZ/TBU -m {
+    "Umid": "0",
+    "Temp": "0"
+}
+2023-09-29 07:22:01,010 - INFO: Received `0:0` from `NVZ/TBU` 
+2023-09-29 07:22:01,010 - INFO: Received `-0.64:31.85:42.90:10.17:5504.` from `NVZ/ANALOG` 
+2023-09-29 07:22:01,010 - INFO: Received `244:8500` from `NVZ/RTD` 
+2023-09-29 07:22:01,010 - INFO: -t NVZ/COMPRESS/CP11 -m {
+    "PressSuccao": "-20",
+    "PressDesc": "181",
+    "PressOleoReserv": "376",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-205",
+    "TempOleo": "513",
+    "TempDesc": "510",
+    "CapacidadeCP": "997",
+    "Corrente": "0",
+    "Horimetro": "1021205"
+}
+2023-09-29 07:22:01,022 - INFO: -t NVZ/COMPRESS/CP16 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:22:01,022 - INFO: -t NVZ/COMPRESS/CP17 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:22:01,022 - INFO: -t NVZ/COMPRESS/CP18 -m {
+    "PressSuccao": "180",
+    "PressDesc": "1030",
+    "PressOleoReserv": "264",
+    "PressOleoFiltro": "80",
+    "TempSuccao": "-71",
+    "TempOleo": "828",
+    "TempDesc": "416",
+    "CapacidadeCP": "991",
+    "Corrente": "345",
+    "Horimetro": "32269"
+}
+2023-09-29 07:22:01,023 - INFO: -t NVZ/COMPRESS/CP12 -m {
+    "PressSuccao": "281",
+    "PressDesc": "631",
+    "PressOleoReserv": "10",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "170",
+    "TempOleo": "169",
+    "TempDesc": "177",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "51177"
+}
+2023-09-29 07:22:01,024 - INFO: -t NVZ/COMPRESS/CP20 -m {
+    "PressSuccao": "-11",
+    "PressDesc": "106",
+    "PressOleoReserv": "135",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-299",
+    "TempOleo": "782",
+    "TempDesc": "548",
+    "CapacidadeCP": "1000",
+    "Corrente": "418",
+    "Horimetro": "426639360"
+}
+2023-09-29 07:22:01,024 - INFO: -t NVZ/COMPRESS/CP21 -m {
+    "PressSuccao": "0",
+    "PressDesc": "106",
+    "PressOleoReserv": "135",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-306",
+    "TempOleo": "781",
+    "TempDesc": "527",
+    "CapacidadeCP": "1000",
+    "Corrente": "469",
+    "Horimetro": "606011392"
+}
+2023-09-29 07:22:01,024 - INFO: -t NVZ/COMPRESS/CP22 -m {
+    "PressSuccao": "186",
+    "PressDesc": "109",
+    "PressOleoReserv": "147",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-68",
+    "TempOleo": "409",
+    "TempDesc": "402",
+    "CapacidadeCP": "949",
+    "Corrente": "441",
+    "Horimetro": "699334656"
+}
+2023-09-29 07:22:01,025 - INFO: -t NVZ/COMPRESS/CP13 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "604766208"
+}
+2023-09-29 07:22:01,025 - INFO: -t NVZ/COMPRESS/CP15 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "604766208"
+}
+2023-09-29 07:22:01,025 - INFO: -t NVZ/COMPRESS/CP19 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "604766208"
+}
+2023-09-29 07:22:01,025 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9370427",
+    "DemandaAtivaInstante": "4536.0",
+    "DemandaReativaInstante": "1508.104",
+    "ConsumoAtivoTotal": "2428344.0",
+    "PeriodoMedicao": "1568821.0",
+    "ConsumoAtivoPeriodo": "1",
+    "DemandaAtivaMedia15min": "4309.2"
+}
+2023-09-29 07:22:01,025 - INFO: Received `0.9370427:4536.0:1508.104:2428344.0:1568821.0:1:4309.2` from `NVZ/SGATE` 
+2023-09-29 07:22:01,025 - INFO: Received `11100111011110` from `NVZ/MB_HAB` 
+2023-09-29 07:22:01,025 - ERROR: Received invalid message from NVZ/SGATE2: :0.9390537:0.9427757:1567.44:4339.44
+2023-09-29 07:22:01,025 - INFO: Received `:0.9390537:0.9427757:1567.44:4339.44` from `NVZ/SGATE2` 
+2023-09-29 07:22:01,026 - INFO: Received `1061:4788:6436:10813:5495` from `NVZ/ANL` 
+2023-09-29 07:22:07,564 - INFO: -t NVZ/COMPRESS/CP12 -m {
+    "PressSuccao": "281",
+    "PressDesc": "631",
+    "PressOleoReserv": "10",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "170",
+    "TempOleo": "169",
+    "TempDesc": "177",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "51177"
+}
+2023-09-29 07:22:07,666 - INFO: -t NVZ/COMPRESS/CP16 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:22:07,667 - INFO: -t NVZ/COMPRESS/CP17 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:22:07,667 - INFO: -t NVZ/COMPRESS/CP18 -m {
+    "PressSuccao": "180",
+    "PressDesc": "1030",
+    "PressOleoReserv": "264",
+    "PressOleoFiltro": "80",
+    "TempSuccao": "-71",
+    "TempOleo": "828",
+    "TempDesc": "416",
+    "CapacidadeCP": "991",
+    "Corrente": "345",
+    "Horimetro": "32269"
+}
+2023-09-29 07:22:07,667 - INFO: -t NVZ/COMPRESS/CP20 -m {
+    "PressSuccao": "-11",
+    "PressDesc": "106",
+    "PressOleoReserv": "135",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-299",
+    "TempOleo": "782",
+    "TempDesc": "548",
+    "CapacidadeCP": "1000",
+    "Corrente": "418",
+    "Horimetro": "426639360"
+}
+2023-09-29 07:22:07,667 - INFO: -t NVZ/COMPRESS/CP21 -m {
+    "PressSuccao": "0",
+    "PressDesc": "106",
+    "PressOleoReserv": "135",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-306",
+    "TempOleo": "781",
+    "TempDesc": "527",
+    "CapacidadeCP": "1000",
+    "Corrente": "469",
+    "Horimetro": "606011392"
+}
+2023-09-29 07:22:07,667 - INFO: -t NVZ/COMPRESS/CP22 -m {
+    "PressSuccao": "186",
+    "PressDesc": "109",
+    "PressOleoReserv": "147",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-68",
+    "TempOleo": "409",
+    "TempDesc": "402",
+    "CapacidadeCP": "949",
+    "Corrente": "441",
+    "Horimetro": "699334656"
+}
+2023-09-29 07:22:07,668 - ERROR: Received invalid message from NVZ/SGATE2: :0.9390537:0.9427757:1567.44:4339.44
+2023-09-29 07:22:07,668 - INFO: Received `:0.9390537:0.9427757:1567.44:4339.44` from `NVZ/SGATE2` 
+2023-09-29 07:22:07,668 - INFO: Received `1061:4749:6311:10852:5716` from `NVZ/ANL` 
+2023-09-29 07:22:07,668 - INFO: Received `0000000000000000` from `NVZ/DGT` 
+2023-09-29 07:22:07,668 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9377301",
+    "DemandaAtivaInstante": "4536.0",
+    "DemandaReativaInstante": "1515.916",
+    "ConsumoAtivoTotal": "2428416.0",
+    "PeriodoMedicao": "1568893.0",
+    "ConsumoAtivoPeriodo": "1",
+    "DemandaAtivaMedia15min": "4309.2"
+}
+2023-09-29 07:22:07,668 - INFO: Received `0.9377301:4536.0:1515.916:2428416.0:1568893.0:1:4309.2` from `NVZ/SGATE` 
+2023-09-29 07:22:07,668 - INFO: Received `-0.64:31.92:42.07:10.18:5697.` from `NVZ/ANALOG` 
+2023-09-29 07:22:07,668 - INFO: Received `244:8500` from `NVZ/RTD` 
+2023-09-29 07:22:07,668 - INFO: -t NVZ/TBU -m {
+    "Umid": "0",
+    "Temp": "0"
+}
+2023-09-29 07:22:07,668 - INFO: Received `0:0` from `NVZ/TBU` 
+2023-09-29 07:22:07,669 - INFO: -t NVZ/COMPRESS/CP11 -m {
+    "PressSuccao": "-20",
+    "PressDesc": "181",
+    "PressOleoReserv": "376",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-205",
+    "TempOleo": "513",
+    "TempDesc": "510",
+    "CapacidadeCP": "997",
+    "Corrente": "0",
+    "Horimetro": "1021205"
+}
+2023-09-29 07:23:07,976 - INFO: -t NVZ/COMPRESS/CP22 -m {
+    "PressSuccao": "186",
+    "PressDesc": "109",
+    "PressOleoReserv": "147",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-68",
+    "TempOleo": "409",
+    "TempDesc": "402",
+    "CapacidadeCP": "949",
+    "Corrente": "441",
+    "Horimetro": "699334656"
+}
+2023-09-29 07:23:08,077 - ERROR: Received invalid message from NVZ/SGATE2: :0.9390537:0.9427757:1567.44:4339.44
+2023-09-29 07:23:08,077 - INFO: Received `:0.9390537:0.9427757:1567.44:4339.44` from `NVZ/SGATE2` 
+2023-09-29 07:23:08,077 - INFO: Received `1061:4499:6282:11044:5543` from `NVZ/ANL` 
+2023-09-29 07:23:08,078 - INFO: Received `0000000000000000` from `NVZ/DGT` 
+2023-09-29 07:23:08,078 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9370947",
+    "DemandaAtivaInstante": "4536.0",
+    "DemandaReativaInstante": "1515.916",
+    "ConsumoAtivoTotal": "2428487.0",
+    "PeriodoMedicao": "1568965.0",
+    "ConsumoAtivoPeriodo": "1",
+    "DemandaAtivaMedia15min": "4309.2"
+}
+2023-09-29 07:23:08,078 - INFO: Received `0.9370947:4536.0:1515.916:2428487.0:1568965.0:1:4309.2` from `NVZ/SGATE` 
+2023-09-29 07:23:08,078 - INFO: Received `-0.64:29.93:41.81:10.41:5552.` from `NVZ/ANALOG` 
+2023-09-29 07:23:08,078 - INFO: Received `244:8500` from `NVZ/RTD` 
+2023-09-29 07:23:08,078 - INFO: -t NVZ/TBU -m {
+    "Umid": "0",
+    "Temp": "0"
+}
+2023-09-29 07:23:08,078 - INFO: Received `0:0` from `NVZ/TBU` 
+2023-09-29 07:23:08,078 - INFO: -t NVZ/COMPRESS/CP11 -m {
+    "PressSuccao": "-20",
+    "PressDesc": "181",
+    "PressOleoReserv": "376",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-205",
+    "TempOleo": "513",
+    "TempDesc": "510",
+    "CapacidadeCP": "997",
+    "Corrente": "0",
+    "Horimetro": "1021205"
+}
+2023-09-29 07:23:08,079 - INFO: -t NVZ/COMPRESS/CP12 -m {
+    "PressSuccao": "281",
+    "PressDesc": "631",
+    "PressOleoReserv": "10",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "170",
+    "TempOleo": "169",
+    "TempDesc": "177",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "51177"
+}
+2023-09-29 07:23:08,079 - INFO: -t NVZ/COMPRESS/CP16 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:23:08,079 - INFO: -t NVZ/COMPRESS/CP17 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:23:08,079 - INFO: -t NVZ/COMPRESS/CP18 -m {
+    "PressSuccao": "180",
+    "PressDesc": "1030",
+    "PressOleoReserv": "264",
+    "PressOleoFiltro": "80",
+    "TempSuccao": "-71",
+    "TempOleo": "828",
+    "TempDesc": "416",
+    "CapacidadeCP": "991",
+    "Corrente": "345",
+    "Horimetro": "32269"
+}
+2023-09-29 07:23:08,079 - INFO: -t NVZ/COMPRESS/CP20 -m {
+    "PressSuccao": "-11",
+    "PressDesc": "106",
+    "PressOleoReserv": "135",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-299",
+    "TempOleo": "782",
+    "TempDesc": "548",
+    "CapacidadeCP": "1000",
+    "Corrente": "418",
+    "Horimetro": "426639360"
+}
+2023-09-29 07:23:08,079 - INFO: -t NVZ/COMPRESS/CP21 -m {
+    "PressSuccao": "0",
+    "PressDesc": "106",
+    "PressOleoReserv": "135",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-306",
+    "TempOleo": "781",
+    "TempDesc": "527",
+    "CapacidadeCP": "1000",
+    "Corrente": "469",
+    "Horimetro": "606011392"
+}
+2023-09-29 07:24:08,433 - INFO: -t NVZ/COMPRESS/CP16 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:24:08,547 - INFO: -t NVZ/COMPRESS/CP17 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:24:08,547 - INFO: -t NVZ/COMPRESS/CP18 -m {
+    "PressSuccao": "199",
+    "PressDesc": "1030",
+    "PressOleoReserv": "265",
+    "PressOleoFiltro": "80",
+    "TempSuccao": "-62",
+    "TempOleo": "804",
+    "TempDesc": "406",
+    "CapacidadeCP": "990",
+    "Corrente": "352",
+    "Horimetro": "32269"
+}
+2023-09-29 07:24:08,547 - INFO: -t NVZ/COMPRESS/CP20 -m {
+    "PressSuccao": "-10",
+    "PressDesc": "106",
+    "PressOleoReserv": "135",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-299",
+    "TempOleo": "782",
+    "TempDesc": "545",
+    "CapacidadeCP": "1000",
+    "Corrente": "422",
+    "Horimetro": "426639360"
+}
+2023-09-29 07:24:08,548 - INFO: -t NVZ/COMPRESS/CP21 -m {
+    "PressSuccao": "2",
+    "PressDesc": "106",
+    "PressOleoReserv": "135",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-306",
+    "TempOleo": "780",
+    "TempDesc": "525",
+    "CapacidadeCP": "1000",
+    "Corrente": "474",
+    "Horimetro": "606011392"
+}
+2023-09-29 07:24:08,548 - INFO: -t NVZ/COMPRESS/CP22 -m {
+    "PressSuccao": "205",
+    "PressDesc": "111",
+    "PressOleoReserv": "148",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-59",
+    "TempOleo": "552",
+    "TempDesc": "592",
+    "CapacidadeCP": "999",
+    "Corrente": "451",
+    "Horimetro": "699334656"
+}
+2023-09-29 07:24:08,548 - ERROR: Received invalid message from NVZ/SGATE2: :0.9389589:0.9427757:1567.44:4339.44
+2023-09-29 07:24:08,548 - INFO: Received `:0.9389589:0.9427757:1567.44:4339.44` from `NVZ/SGATE2` 
+2023-09-29 07:24:08,548 - INFO: Received `1061:4192:6292:11140:5591` from `NVZ/ANL` 
+2023-09-29 07:24:08,549 - INFO: Received `0000000000000000` from `NVZ/DGT` 
+2023-09-29 07:24:08,549 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9385651",
+    "DemandaAtivaInstante": "4536.0",
+    "DemandaReativaInstante": "1514.692",
+    "ConsumoAtivoTotal": "2428561.0",
+    "PeriodoMedicao": "1569038.0",
+    "ConsumoAtivoPeriodo": "1",
+    "DemandaAtivaMedia15min": "4319.28"
+}
+2023-09-29 07:24:08,549 - INFO: Received `0.9385651:4536.0:1514.692:2428561.0:1569038.0:1:4319.28` from `NVZ/SGATE` 
+2023-09-29 07:24:08,549 - INFO: Received `-0.64:27.94:41.94:10.51:5591.` from `NVZ/ANALOG` 
+2023-09-29 07:24:08,549 - INFO: Received `244:8500` from `NVZ/RTD` 
+2023-09-29 07:24:08,549 - INFO: -t NVZ/TBU -m {
+    "Umid": "0",
+    "Temp": "0"
+}
+2023-09-29 07:24:08,549 - INFO: Received `0:0` from `NVZ/TBU` 
+2023-09-29 07:24:08,550 - INFO: -t NVZ/COMPRESS/CP11 -m {
+    "PressSuccao": "-20",
+    "PressDesc": "200",
+    "PressOleoReserv": "378",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-204",
+    "TempOleo": "530",
+    "TempDesc": "543",
+    "CapacidadeCP": "997",
+    "Corrente": "0",
+    "Horimetro": "1021206"
+}
+2023-09-29 07:24:08,550 - INFO: -t NVZ/COMPRESS/CP12 -m {
+    "PressSuccao": "270",
+    "PressDesc": "633",
+    "PressOleoReserv": "9",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "170",
+    "TempOleo": "170",
+    "TempDesc": "177",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "51177"
+}
+2023-09-29 07:25:08,852 - INFO: -t NVZ/COMPRESS/CP18 -m {
+    "PressSuccao": "199",
+    "PressDesc": "1030",
+    "PressOleoReserv": "265",
+    "PressOleoFiltro": "80",
+    "TempSuccao": "-62",
+    "TempOleo": "804",
+    "TempDesc": "406",
+    "CapacidadeCP": "990",
+    "Corrente": "352",
+    "Horimetro": "32269"
+}
+2023-09-29 07:25:08,983 - INFO: -t NVZ/COMPRESS/CP20 -m {
+    "PressSuccao": "-10",
+    "PressDesc": "106",
+    "PressOleoReserv": "135",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-299",
+    "TempOleo": "782",
+    "TempDesc": "545",
+    "CapacidadeCP": "1000",
+    "Corrente": "422",
+    "Horimetro": "426639360"
+}
+2023-09-29 07:25:08,984 - INFO: -t NVZ/COMPRESS/CP21 -m {
+    "PressSuccao": "2",
+    "PressDesc": "106",
+    "PressOleoReserv": "135",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-306",
+    "TempOleo": "780",
+    "TempDesc": "525",
+    "CapacidadeCP": "1000",
+    "Corrente": "474",
+    "Horimetro": "606011392"
+}
+2023-09-29 07:25:08,985 - INFO: -t NVZ/COMPRESS/CP22 -m {
+    "PressSuccao": "205",
+    "PressDesc": "111",
+    "PressOleoReserv": "148",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-59",
+    "TempOleo": "552",
+    "TempDesc": "592",
+    "CapacidadeCP": "999",
+    "Corrente": "451",
+    "Horimetro": "699334656"
+}
+2023-09-29 07:25:08,985 - ERROR: Received invalid message from NVZ/SGATE2: :0.9392175:0.9427757:1567.44:4339.44
+2023-09-29 07:25:08,985 - INFO: Received `:0.9392175:0.9427757:1567.44:4339.44` from `NVZ/SGATE2` 
+2023-09-29 07:25:08,985 - INFO: Received `1052:4096:6311:11150:5658` from `NVZ/ANL` 
+2023-09-29 07:25:08,985 - INFO: Received `0000000000000000` from `NVZ/DGT` 
+2023-09-29 07:25:08,986 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.942609",
+    "DemandaAtivaInstante": "4536.0",
+    "DemandaReativaInstante": "1514.692",
+    "ConsumoAtivoTotal": "2428634.0",
+    "PeriodoMedicao": "1569111.0",
+    "ConsumoAtivoPeriodo": "1",
+    "DemandaAtivaMedia15min": "4329.36"
+}
+2023-09-29 07:25:08,986 - INFO: Received `0.942609:4536.0:1514.692:2428634.0:1569111.0:1:4329.36` from `NVZ/SGATE` 
+2023-09-29 07:25:08,986 - INFO: Received `-0.64:27.24:42.13:10.52:5658.` from `NVZ/ANALOG` 
+2023-09-29 07:25:08,986 - INFO: Received `247:8500` from `NVZ/RTD` 
+2023-09-29 07:25:08,986 - INFO: -t NVZ/TBU -m {
+    "Umid": "0",
+    "Temp": "0"
+}
+2023-09-29 07:25:08,986 - INFO: Received `0:0` from `NVZ/TBU` 
+2023-09-29 07:25:08,987 - INFO: -t NVZ/COMPRESS/CP11 -m {
+    "PressSuccao": "-20",
+    "PressDesc": "200",
+    "PressOleoReserv": "378",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-204",
+    "TempOleo": "530",
+    "TempDesc": "543",
+    "CapacidadeCP": "997",
+    "Corrente": "0",
+    "Horimetro": "1021206"
+}
+2023-09-29 07:25:08,987 - INFO: -t NVZ/COMPRESS/CP12 -m {
+    "PressSuccao": "270",
+    "PressDesc": "633",
+    "PressOleoReserv": "9",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "170",
+    "TempOleo": "170",
+    "TempDesc": "177",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "51177"
+}
+2023-09-29 07:25:08,987 - INFO: -t NVZ/COMPRESS/CP16 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:25:08,987 - INFO: -t NVZ/COMPRESS/CP17 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:26:10,129 - INFO: Received `0000000000000000` from `NVZ/DGT` 
+2023-09-29 07:26:10,318 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9385087",
+    "DemandaAtivaInstante": "4536.0",
+    "DemandaReativaInstante": "1707.831",
+    "ConsumoAtivoTotal": "2428707.0",
+    "PeriodoMedicao": "1569184.0",
+    "ConsumoAtivoPeriodo": "1",
+    "DemandaAtivaMedia15min": "4334.4"
+}
+2023-09-29 07:26:10,318 - INFO: Received `0.9385087:4536.0:1707.831:2428707.0:1569184.0:1:4334.4` from `NVZ/SGATE` 
+2023-09-29 07:26:10,319 - INFO: Received `-0.64:26.34:42.00:10.51:5408.` from `NVZ/ANALOG` 
+2023-09-29 07:26:10,319 - INFO: Received `248:8500` from `NVZ/RTD` 
+2023-09-29 07:26:10,319 - INFO: -t NVZ/TBU -m {
+    "Umid": "0",
+    "Temp": "0"
+}
+2023-09-29 07:26:10,319 - INFO: Received `0:0` from `NVZ/TBU` 
+2023-09-29 07:26:10,319 - INFO: -t NVZ/COMPRESS/CP11 -m {
+    "PressSuccao": "-20",
+    "PressDesc": "200",
+    "PressOleoReserv": "378",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-204",
+    "TempOleo": "530",
+    "TempDesc": "543",
+    "CapacidadeCP": "997",
+    "Corrente": "0",
+    "Horimetro": "1021206"
+}
+2023-09-29 07:26:10,320 - INFO: -t NVZ/COMPRESS/CP12 -m {
+    "PressSuccao": "270",
+    "PressDesc": "633",
+    "PressOleoReserv": "9",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "170",
+    "TempOleo": "170",
+    "TempDesc": "177",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "51177"
+}
+2023-09-29 07:26:10,320 - INFO: -t NVZ/COMPRESS/CP16 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:26:10,320 - INFO: -t NVZ/COMPRESS/CP17 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:26:10,321 - INFO: -t NVZ/COMPRESS/CP18 -m {
+    "PressSuccao": "199",
+    "PressDesc": "1030",
+    "PressOleoReserv": "265",
+    "PressOleoFiltro": "80",
+    "TempSuccao": "-62",
+    "TempOleo": "804",
+    "TempDesc": "406",
+    "CapacidadeCP": "990",
+    "Corrente": "352",
+    "Horimetro": "32269"
+}
+2023-09-29 07:26:10,321 - INFO: -t NVZ/COMPRESS/CP20 -m {
+    "PressSuccao": "-10",
+    "PressDesc": "106",
+    "PressOleoReserv": "135",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-299",
+    "TempOleo": "782",
+    "TempDesc": "545",
+    "CapacidadeCP": "1000",
+    "Corrente": "422",
+    "Horimetro": "426639360"
+}
+2023-09-29 07:26:10,321 - INFO: -t NVZ/COMPRESS/CP21 -m {
+    "PressSuccao": "2",
+    "PressDesc": "106",
+    "PressOleoReserv": "135",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-306",
+    "TempOleo": "780",
+    "TempDesc": "525",
+    "CapacidadeCP": "1000",
+    "Corrente": "474",
+    "Horimetro": "606011392"
+}
+2023-09-29 07:26:10,321 - INFO: -t NVZ/COMPRESS/CP22 -m {
+    "PressSuccao": "205",
+    "PressDesc": "111",
+    "PressOleoReserv": "148",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-59",
+    "TempOleo": "552",
+    "TempDesc": "592",
+    "CapacidadeCP": "999",
+    "Corrente": "451",
+    "Horimetro": "699334656"
+}
+2023-09-29 07:26:10,321 - ERROR: Received invalid message from NVZ/SGATE2: :0.9389939:0.9427757:1567.44:4339.44
+2023-09-29 07:26:10,321 - INFO: Received `:0.9389939:0.9427757:1567.44:4339.44` from `NVZ/SGATE2` 
+2023-09-29 07:26:10,321 - INFO: Received `1052:3952:6301:11140:5417` from `NVZ/ANL` 
+2023-09-29 07:27:10,548 - INFO: Received `0000000000000000` from `NVZ/DGT` 
+2023-09-29 07:27:10,736 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9403571",
+    "DemandaAtivaInstante": "4069.784",
+    "DemandaReativaInstante": "1509.317",
+    "ConsumoAtivoTotal": "2428778.0",
+    "PeriodoMedicao": "1569256.0",
+    "ConsumoAtivoPeriodo": "1",
+    "DemandaAtivaMedia15min": "4334.4"
+}
+2023-09-29 07:27:10,737 - INFO: Received `0.9403571:4069.784:1509.317:2428778.0:1569256.0:1:4334.4` from `NVZ/SGATE` 
+2023-09-29 07:27:10,737 - INFO: Received `-0.64:25.51:43.22:10.51:5755.` from `NVZ/ANALOG` 
+2023-09-29 07:27:10,737 - INFO: Received `247:8500` from `NVZ/RTD` 
+2023-09-29 07:27:10,738 - INFO: -t NVZ/TBU -m {
+    "Umid": "0",
+    "Temp": "0"
+}
+2023-09-29 07:27:10,738 - INFO: Received `0:0` from `NVZ/TBU` 
+2023-09-29 07:27:10,738 - INFO: -t NVZ/COMPRESS/CP11 -m {
+    "PressSuccao": "-20",
+    "PressDesc": "200",
+    "PressOleoReserv": "378",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-204",
+    "TempOleo": "530",
+    "TempDesc": "543",
+    "CapacidadeCP": "997",
+    "Corrente": "0",
+    "Horimetro": "1021206"
+}
+2023-09-29 07:27:10,738 - INFO: -t NVZ/COMPRESS/CP12 -m {
+    "PressSuccao": "270",
+    "PressDesc": "633",
+    "PressOleoReserv": "9",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "170",
+    "TempOleo": "170",
+    "TempDesc": "177",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "51177"
+}
+2023-09-29 07:27:10,738 - INFO: -t NVZ/COMPRESS/CP16 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:27:10,739 - INFO: -t NVZ/COMPRESS/CP17 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:27:10,739 - INFO: -t NVZ/COMPRESS/CP18 -m {
+    "PressSuccao": "199",
+    "PressDesc": "1030",
+    "PressOleoReserv": "265",
+    "PressOleoFiltro": "80",
+    "TempSuccao": "-62",
+    "TempOleo": "804",
+    "TempDesc": "406",
+    "CapacidadeCP": "990",
+    "Corrente": "352",
+    "Horimetro": "32269"
+}
+2023-09-29 07:27:10,739 - INFO: -t NVZ/COMPRESS/CP20 -m {
+    "PressSuccao": "-10",
+    "PressDesc": "106",
+    "PressOleoReserv": "135",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-299",
+    "TempOleo": "782",
+    "TempDesc": "545",
+    "CapacidadeCP": "1000",
+    "Corrente": "422",
+    "Horimetro": "426639360"
+}
+2023-09-29 07:27:10,739 - INFO: -t NVZ/COMPRESS/CP21 -m {
+    "PressSuccao": "2",
+    "PressDesc": "106",
+    "PressOleoReserv": "135",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-306",
+    "TempOleo": "780",
+    "TempDesc": "525",
+    "CapacidadeCP": "1000",
+    "Corrente": "474",
+    "Horimetro": "606011392"
+}
+2023-09-29 07:27:10,740 - INFO: -t NVZ/COMPRESS/CP22 -m {
+    "PressSuccao": "205",
+    "PressDesc": "111",
+    "PressOleoReserv": "148",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-59",
+    "TempOleo": "552",
+    "TempDesc": "592",
+    "CapacidadeCP": "999",
+    "Corrente": "451",
+    "Horimetro": "699334656"
+}
+2023-09-29 07:27:10,740 - ERROR: Received invalid message from NVZ/SGATE2: :0.9389939:0.9427757:1567.44:4339.44
+2023-09-29 07:27:10,740 - INFO: Received `:0.9389939:0.9427757:1567.44:4339.44` from `NVZ/SGATE2` 
+2023-09-29 07:27:10,740 - INFO: Received `1042:3817:6465:11140:5755` from `NVZ/ANL` 
+2023-09-29 07:28:10,861 - INFO: -t NVZ/COMPRESS/CP18 -m {
+    "PressSuccao": "199",
+    "PressDesc": "1030",
+    "PressOleoReserv": "265",
+    "PressOleoFiltro": "80",
+    "TempSuccao": "-62",
+    "TempOleo": "804",
+    "TempDesc": "406",
+    "CapacidadeCP": "990",
+    "Corrente": "352",
+    "Horimetro": "32269"
+}
+2023-09-29 07:28:11,005 - INFO: -t NVZ/COMPRESS/CP20 -m {
+    "PressSuccao": "-10",
+    "PressDesc": "106",
+    "PressOleoReserv": "135",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-299",
+    "TempOleo": "782",
+    "TempDesc": "545",
+    "CapacidadeCP": "1000",
+    "Corrente": "422",
+    "Horimetro": "426639360"
+}
+2023-09-29 07:28:11,005 - INFO: -t NVZ/COMPRESS/CP21 -m {
+    "PressSuccao": "2",
+    "PressDesc": "106",
+    "PressOleoReserv": "135",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-306",
+    "TempOleo": "780",
+    "TempDesc": "525",
+    "CapacidadeCP": "1000",
+    "Corrente": "474",
+    "Horimetro": "606011392"
+}
+2023-09-29 07:28:11,006 - INFO: -t NVZ/COMPRESS/CP22 -m {
+    "PressSuccao": "205",
+    "PressDesc": "111",
+    "PressOleoReserv": "148",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-59",
+    "TempOleo": "552",
+    "TempDesc": "592",
+    "CapacidadeCP": "999",
+    "Corrente": "451",
+    "Horimetro": "699334656"
+}
+2023-09-29 07:28:11,006 - ERROR: Received invalid message from NVZ/SGATE2: :0.9391229:0.9427757:1567.44:4339.44
+2023-09-29 07:28:11,006 - INFO: Received `:0.9391229:0.9427757:1567.44:4339.44` from `NVZ/SGATE2` 
+2023-09-29 07:28:11,006 - INFO: Received `1042:3856:6695:11179:5340` from `NVZ/ANL` 
+2023-09-29 07:28:11,006 - INFO: Received `0000000000000000` from `NVZ/DGT` 
+2023-09-29 07:28:11,006 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9407294",
+    "DemandaAtivaInstante": "4075.879",
+    "DemandaReativaInstante": "1512.0",
+    "ConsumoAtivoTotal": "2428852.0",
+    "PeriodoMedicao": "1569329.0",
+    "ConsumoAtivoPeriodo": "1",
+    "DemandaAtivaMedia15min": "4339.44"
+}
+2023-09-29 07:28:11,007 - INFO: Received `0.9407294:4075.879:1512.0:2428852.0:1569329.0:1:4339.44` from `NVZ/SGATE` 
+2023-09-29 07:28:11,007 - INFO: Received `-0.65:25.70:44.50:10.54:5350.` from `NVZ/ANALOG` 
+2023-09-29 07:28:11,007 - INFO: Received `247:8500` from `NVZ/RTD` 
+2023-09-29 07:28:11,007 - INFO: -t NVZ/TBU -m {
+    "Umid": "0",
+    "Temp": "0"
+}
+2023-09-29 07:28:11,007 - INFO: Received `0:0` from `NVZ/TBU` 
+2023-09-29 07:28:11,007 - INFO: -t NVZ/COMPRESS/CP11 -m {
+    "PressSuccao": "-20",
+    "PressDesc": "200",
+    "PressOleoReserv": "378",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-204",
+    "TempOleo": "530",
+    "TempDesc": "543",
+    "CapacidadeCP": "997",
+    "Corrente": "0",
+    "Horimetro": "1021206"
+}
+2023-09-29 07:28:11,007 - INFO: -t NVZ/COMPRESS/CP12 -m {
+    "PressSuccao": "270",
+    "PressDesc": "633",
+    "PressOleoReserv": "9",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "170",
+    "TempOleo": "170",
+    "TempDesc": "177",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "51177"
+}
+2023-09-29 07:28:11,008 - INFO: -t NVZ/COMPRESS/CP16 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:28:11,008 - INFO: -t NVZ/COMPRESS/CP17 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:29:11,379 - INFO: Received `0000000000000000` from `NVZ/DGT` 
+2023-09-29 07:29:11,528 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.939766",
+    "DemandaAtivaInstante": "4536.0",
+    "DemandaReativaInstante": "1707.617",
+    "ConsumoAtivoTotal": "2428926.0",
+    "PeriodoMedicao": "1569403.0",
+    "ConsumoAtivoPeriodo": "1",
+    "DemandaAtivaMedia15min": "4344.48"
+}
+2023-09-29 07:29:11,529 - INFO: Received `0.939766:4536.0:1707.617:2428926.0:1569403.0:1:4344.48` from `NVZ/SGATE` 
+2023-09-29 07:29:11,529 - INFO: Received `-0.65:25.9:42.78:10.57:5726.` from `NVZ/ANALOG` 
+2023-09-29 07:29:11,529 - INFO: Received `248:8500` from `NVZ/RTD` 
+2023-09-29 07:29:11,529 - INFO: -t NVZ/TBU -m {
+    "Umid": "0",
+    "Temp": "0"
+}
+2023-09-29 07:29:11,530 - INFO: Received `0:0` from `NVZ/TBU` 
+2023-09-29 07:29:11,530 - INFO: -t NVZ/COMPRESS/CP11 -m {
+    "PressSuccao": "-19",
+    "PressDesc": "180",
+    "PressOleoReserv": "378",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-204",
+    "TempOleo": "516",
+    "TempDesc": "514",
+    "CapacidadeCP": "997",
+    "Corrente": "0",
+    "Horimetro": "1021206"
+}
+2023-09-29 07:29:11,530 - INFO: -t NVZ/COMPRESS/CP12 -m {
+    "PressSuccao": "281",
+    "PressDesc": "634",
+    "PressOleoReserv": "10",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "169",
+    "TempOleo": "171",
+    "TempDesc": "178",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "51177"
+}
+2023-09-29 07:29:11,530 - INFO: -t NVZ/COMPRESS/CP16 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:29:11,531 - INFO: -t NVZ/COMPRESS/CP17 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:29:11,531 - INFO: -t NVZ/COMPRESS/CP18 -m {
+    "PressSuccao": "171",
+    "PressDesc": "1038",
+    "PressOleoReserv": "255",
+    "PressOleoFiltro": "85",
+    "TempSuccao": "-70",
+    "TempOleo": "830",
+    "TempDesc": "415",
+    "CapacidadeCP": "990",
+    "Corrente": "358",
+    "Horimetro": "32269"
+}
+2023-09-29 07:29:11,531 - INFO: -t NVZ/COMPRESS/CP20 -m {
+    "PressSuccao": "-10",
+    "PressDesc": "107",
+    "PressOleoReserv": "136",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-299",
+    "TempOleo": "784",
+    "TempDesc": "549",
+    "CapacidadeCP": "1000",
+    "Corrente": "423",
+    "Horimetro": "426639360"
+}
+2023-09-29 07:29:11,532 - INFO: -t NVZ/COMPRESS/CP21 -m {
+    "PressSuccao": "1",
+    "PressDesc": "107",
+    "PressOleoReserv": "135",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-306",
+    "TempOleo": "782",
+    "TempDesc": "528",
+    "CapacidadeCP": "1000",
+    "Corrente": "473",
+    "Horimetro": "606011392"
+}
+2023-09-29 07:29:11,532 - INFO: -t NVZ/COMPRESS/CP22 -m {
+    "PressSuccao": "181",
+    "PressDesc": "110",
+    "PressOleoReserv": "148",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-70",
+    "TempOleo": "409",
+    "TempDesc": "392",
+    "CapacidadeCP": "961",
+    "Corrente": "443",
+    "Horimetro": "699334656"
+}
+2023-09-29 07:29:11,532 - ERROR: Received invalid message from NVZ/SGATE2: :0.9392514:0.9427757:1567.44:4339.44
+2023-09-29 07:29:11,532 - INFO: Received `:0.9392514:0.9427757:1567.44:4339.44` from `NVZ/SGATE2` 
+2023-09-29 07:29:11,532 - INFO: Received `1042:3885:6407:11198:5726` from `NVZ/ANL` 
+2023-09-29 07:30:11,695 - INFO: Received `0000000000000000` from `NVZ/DGT` 
+2023-09-29 07:30:11,895 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9431687",
+    "DemandaAtivaInstante": "4989.6",
+    "DemandaReativaInstante": "1647.059",
+    "ConsumoAtivoTotal": "2428998.0",
+    "PeriodoMedicao": "1569475.0",
+    "ConsumoAtivoPeriodo": "1",
+    "DemandaAtivaMedia15min": "4339.44"
+}
+2023-09-29 07:30:11,896 - INFO: Received `0.9431687:4989.6:1647.059:2428998.0:1569475.0:1:4339.44` from `NVZ/SGATE` 
+2023-09-29 07:30:11,896 - INFO: Received `-0.64:26.86:42.32:10.39:5475.` from `NVZ/ANALOG` 
+2023-09-29 07:30:11,896 - INFO: Received `250:8500` from `NVZ/RTD` 
+2023-09-29 07:30:11,896 - INFO: -t NVZ/TBU -m {
+    "Umid": "0",
+    "Temp": "0"
+}
+2023-09-29 07:30:11,896 - INFO: Received `0:0` from `NVZ/TBU` 
+2023-09-29 07:30:11,896 - INFO: -t NVZ/COMPRESS/CP11 -m {
+    "PressSuccao": "-19",
+    "PressDesc": "180",
+    "PressOleoReserv": "378",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-204",
+    "TempOleo": "516",
+    "TempDesc": "514",
+    "CapacidadeCP": "997",
+    "Corrente": "0",
+    "Horimetro": "1021206"
+}
+2023-09-29 07:30:11,897 - INFO: -t NVZ/COMPRESS/CP12 -m {
+    "PressSuccao": "281",
+    "PressDesc": "634",
+    "PressOleoReserv": "10",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "169",
+    "TempOleo": "171",
+    "TempDesc": "178",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "51177"
+}
+2023-09-29 07:30:11,897 - INFO: -t NVZ/COMPRESS/CP16 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:30:11,897 - INFO: -t NVZ/COMPRESS/CP17 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:30:11,897 - INFO: -t NVZ/COMPRESS/CP18 -m {
+    "PressSuccao": "171",
+    "PressDesc": "1038",
+    "PressOleoReserv": "255",
+    "PressOleoFiltro": "85",
+    "TempSuccao": "-70",
+    "TempOleo": "830",
+    "TempDesc": "415",
+    "CapacidadeCP": "990",
+    "Corrente": "358",
+    "Horimetro": "32269"
+}
+2023-09-29 07:30:11,897 - INFO: -t NVZ/COMPRESS/CP20 -m {
+    "PressSuccao": "-10",
+    "PressDesc": "107",
+    "PressOleoReserv": "136",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-299",
+    "TempOleo": "784",
+    "TempDesc": "549",
+    "CapacidadeCP": "1000",
+    "Corrente": "423",
+    "Horimetro": "426639360"
+}
+2023-09-29 07:30:11,898 - INFO: -t NVZ/COMPRESS/CP21 -m {
+    "PressSuccao": "1",
+    "PressDesc": "107",
+    "PressOleoReserv": "135",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-306",
+    "TempOleo": "782",
+    "TempDesc": "528",
+    "CapacidadeCP": "1000",
+    "Corrente": "473",
+    "Horimetro": "606011392"
+}
+2023-09-29 07:30:11,898 - INFO: -t NVZ/COMPRESS/CP22 -m {
+    "PressSuccao": "181",
+    "PressDesc": "110",
+    "PressOleoReserv": "148",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-70",
+    "TempOleo": "409",
+    "TempDesc": "392",
+    "CapacidadeCP": "961",
+    "Corrente": "443",
+    "Horimetro": "699334656"
+}
+2023-09-29 07:30:11,898 - ERROR: Received invalid message from NVZ/SGATE2: :0.9391229:0.9414132:1587.6:4339.44
+2023-09-29 07:30:11,898 - INFO: Received `:0.9391229:0.9414132:1587.6:4339.44` from `NVZ/SGATE2` 
+2023-09-29 07:30:11,898 - INFO: Received `1052:4010:6349:11015:5475` from `NVZ/ANL` 
+2023-09-29 07:31:12,111 - INFO: Received `0000000000000000` from `NVZ/DGT` 
+2023-09-29 07:31:12,300 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9397884",
+    "DemandaAtivaInstante": "4082.4",
+    "DemandaReativaInstante": "1514.524",
+    "ConsumoAtivoTotal": "2429081.0",
+    "PeriodoMedicao": "1569558.0",
+    "ConsumoAtivoPeriodo": "1",
+    "DemandaAtivaMedia15min": "4339.44"
+}
+2023-09-29 07:31:12,300 - INFO: Received `0.9397884:4082.4:1514.524:2429081.0:1569558.0:1:4339.44` from `NVZ/SGATE` 
+2023-09-29 07:31:12,301 - INFO: Received `-0.64:30.44:41.81:10.20:5764.` from `NVZ/ANALOG` 
+2023-09-29 07:31:12,301 - INFO: Received `249:8500` from `NVZ/RTD` 
+2023-09-29 07:31:12,301 - INFO: -t NVZ/TBU -m {
+    "Umid": "0",
+    "Temp": "0"
+}
+2023-09-29 07:31:12,301 - INFO: Received `0:0` from `NVZ/TBU` 
+2023-09-29 07:31:12,301 - INFO: -t NVZ/COMPRESS/CP11 -m {
+    "PressSuccao": "-19",
+    "PressDesc": "180",
+    "PressOleoReserv": "378",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-204",
+    "TempOleo": "516",
+    "TempDesc": "514",
+    "CapacidadeCP": "997",
+    "Corrente": "0",
+    "Horimetro": "1021206"
+}
+2023-09-29 07:31:12,302 - INFO: -t NVZ/COMPRESS/CP12 -m {
+    "PressSuccao": "281",
+    "PressDesc": "634",
+    "PressOleoReserv": "10",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "169",
+    "TempOleo": "171",
+    "TempDesc": "178",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "51177"
+}
+2023-09-29 07:31:12,302 - INFO: -t NVZ/COMPRESS/CP16 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:31:12,302 - INFO: -t NVZ/COMPRESS/CP17 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:31:12,302 - INFO: -t NVZ/COMPRESS/CP18 -m {
+    "PressSuccao": "171",
+    "PressDesc": "1038",
+    "PressOleoReserv": "255",
+    "PressOleoFiltro": "85",
+    "TempSuccao": "-70",
+    "TempOleo": "830",
+    "TempDesc": "415",
+    "CapacidadeCP": "990",
+    "Corrente": "358",
+    "Horimetro": "32269"
+}
+2023-09-29 07:31:12,454 - INFO: -t NVZ/COMPRESS/CP20 -m {
+    "PressSuccao": "-10",
+    "PressDesc": "107",
+    "PressOleoReserv": "136",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-299",
+    "TempOleo": "784",
+    "TempDesc": "549",
+    "CapacidadeCP": "1000",
+    "Corrente": "423",
+    "Horimetro": "426639360"
+}
+2023-09-29 07:31:12,454 - INFO: -t NVZ/COMPRESS/CP21 -m {
+    "PressSuccao": "1",
+    "PressDesc": "107",
+    "PressOleoReserv": "135",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-306",
+    "TempOleo": "782",
+    "TempDesc": "528",
+    "CapacidadeCP": "1000",
+    "Corrente": "473",
+    "Horimetro": "606011392"
+}
+2023-09-29 07:31:12,455 - INFO: -t NVZ/COMPRESS/CP22 -m {
+    "PressSuccao": "181",
+    "PressDesc": "110",
+    "PressOleoReserv": "148",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-70",
+    "TempOleo": "409",
+    "TempDesc": "392",
+    "CapacidadeCP": "961",
+    "Corrente": "443",
+    "Horimetro": "699334656"
+}
+2023-09-29 07:31:12,455 - ERROR: Received invalid message from NVZ/SGATE2: :0.9391229:0.9414132:1587.6:4339.44
+2023-09-29 07:31:12,455 - INFO: Received `:0.9391229:0.9414132:1587.6:4339.44` from `NVZ/SGATE2` 
+2023-09-29 07:31:12,455 - INFO: Received `1061:4567:6282:10852:5764` from `NVZ/ANL` 
+2023-09-29 07:32:12,633 - INFO: -t NVZ/COMPRESS/CP12 -m {
+    "PressSuccao": "281",
+    "PressDesc": "634",
+    "PressOleoReserv": "10",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "169",
+    "TempOleo": "171",
+    "TempDesc": "178",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "51177"
+}
+2023-09-29 07:32:12,744 - INFO: -t NVZ/COMPRESS/CP16 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:32:12,745 - INFO: -t NVZ/COMPRESS/CP17 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:32:12,745 - INFO: -t NVZ/COMPRESS/CP18 -m {
+    "PressSuccao": "171",
+    "PressDesc": "1038",
+    "PressOleoReserv": "255",
+    "PressOleoFiltro": "85",
+    "TempSuccao": "-70",
+    "TempOleo": "830",
+    "TempDesc": "415",
+    "CapacidadeCP": "990",
+    "Corrente": "358",
+    "Horimetro": "32269"
+}
+2023-09-29 07:32:12,745 - INFO: -t NVZ/COMPRESS/CP20 -m {
+    "PressSuccao": "-10",
+    "PressDesc": "107",
+    "PressOleoReserv": "136",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-299",
+    "TempOleo": "784",
+    "TempDesc": "549",
+    "CapacidadeCP": "1000",
+    "Corrente": "423",
+    "Horimetro": "426639360"
+}
+2023-09-29 07:32:12,745 - INFO: -t NVZ/COMPRESS/CP21 -m {
+    "PressSuccao": "1",
+    "PressDesc": "107",
+    "PressOleoReserv": "135",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-306",
+    "TempOleo": "782",
+    "TempDesc": "528",
+    "CapacidadeCP": "1000",
+    "Corrente": "473",
+    "Horimetro": "606011392"
+}
+2023-09-29 07:32:12,745 - INFO: -t NVZ/COMPRESS/CP22 -m {
+    "PressSuccao": "181",
+    "PressDesc": "110",
+    "PressOleoReserv": "148",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-70",
+    "TempOleo": "409",
+    "TempDesc": "392",
+    "CapacidadeCP": "961",
+    "Corrente": "443",
+    "Horimetro": "699334656"
+}
+2023-09-29 07:32:12,746 - ERROR: Received invalid message from NVZ/SGATE2: :0.9392514:0.9414132:1587.6:4339.44
+2023-09-29 07:32:12,746 - INFO: Received `:0.9392514:0.9414132:1587.6:4339.44` from `NVZ/SGATE2` 
+2023-09-29 07:32:12,746 - INFO: Received `1061:4980:6292:10813:5533` from `NVZ/ANL` 
+2023-09-29 07:32:12,746 - INFO: Received `0000000000000000` from `NVZ/DGT` 
+2023-09-29 07:32:12,746 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9422764",
+    "DemandaAtivaInstante": "4536.0",
+    "DemandaReativaInstante": "1514.692",
+    "ConsumoAtivoTotal": "2429154.0",
+    "PeriodoMedicao": "1569631.0",
+    "ConsumoAtivoPeriodo": "1",
+    "DemandaAtivaMedia15min": "4344.48"
+}
+2023-09-29 07:32:12,746 - INFO: Received `0.9422764:4536.0:1514.692:2429154.0:1569631.0:1:4344.48` from `NVZ/SGATE` 
+2023-09-29 07:32:12,746 - INFO: Received `-0.64:33.13:42.00:10.17:5543.` from `NVZ/ANALOG` 
+2023-09-29 07:32:12,746 - INFO: Received `249:8500` from `NVZ/RTD` 
+2023-09-29 07:32:12,747 - INFO: -t NVZ/TBU -m {
+    "Umid": "0",
+    "Temp": "0"
+}
+2023-09-29 07:32:12,747 - INFO: Received `0:0` from `NVZ/TBU` 
+2023-09-29 07:32:12,747 - INFO: -t NVZ/COMPRESS/CP11 -m {
+    "PressSuccao": "-19",
+    "PressDesc": "180",
+    "PressOleoReserv": "378",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-204",
+    "TempOleo": "516",
+    "TempDesc": "514",
+    "CapacidadeCP": "997",
+    "Corrente": "0",
+    "Horimetro": "1021206"
+}
+2023-09-29 07:33:12,948 - INFO: -t NVZ/COMPRESS/CP18 -m {
+    "PressSuccao": "210",
+    "PressDesc": "1016",
+    "PressOleoReserv": "263",
+    "PressOleoFiltro": "83",
+    "TempSuccao": "-63",
+    "TempOleo": "798",
+    "TempDesc": "412",
+    "CapacidadeCP": "991",
+    "Corrente": "360",
+    "Horimetro": "32269"
+}
+2023-09-29 07:33:13,153 - INFO: -t NVZ/COMPRESS/CP20 -m {
+    "PressSuccao": "-9",
+    "PressDesc": "104",
+    "PressOleoReserv": "133",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-298",
+    "TempOleo": "782",
+    "TempDesc": "546",
+    "CapacidadeCP": "1000",
+    "Corrente": "419",
+    "Horimetro": "426639360"
+}
+2023-09-29 07:33:13,154 - INFO: -t NVZ/COMPRESS/CP21 -m {
+    "PressSuccao": "2",
+    "PressDesc": "105",
+    "PressOleoReserv": "134",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-306",
+    "TempOleo": "781",
+    "TempDesc": "527",
+    "CapacidadeCP": "1000",
+    "Corrente": "470",
+    "Horimetro": "606011392"
+}
+2023-09-29 07:33:13,154 - INFO: -t NVZ/COMPRESS/CP22 -m {
+    "PressSuccao": "224",
+    "PressDesc": "108",
+    "PressOleoReserv": "146",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-54",
+    "TempOleo": "612",
+    "TempDesc": "582",
+    "CapacidadeCP": "975",
+    "Corrente": "443",
+    "Horimetro": "699334656"
+}
+2023-09-29 07:33:13,154 - ERROR: Received invalid message from NVZ/SGATE2: :0.9396023:0.9414132:1587.6:4339.44
+2023-09-29 07:33:13,154 - INFO: Received `:0.9396023:0.9414132:1587.6:4339.44` from `NVZ/SGATE2` 
+2023-09-29 07:33:13,154 - INFO: Received `1071:4634:6320:10996:5707` from `NVZ/ANL` 
+2023-09-29 07:33:13,155 - INFO: Received `0000000000000000` from `NVZ/DGT` 
+2023-09-29 07:33:13,155 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9421367",
+    "DemandaAtivaInstante": "4536.0",
+    "DemandaReativaInstante": "1517.226",
+    "ConsumoAtivoTotal": "2429226.0",
+    "PeriodoMedicao": "1569703.0",
+    "ConsumoAtivoPeriodo": "1",
+    "DemandaAtivaMedia15min": "4344.48"
+}
+2023-09-29 07:33:13,155 - INFO: Received `0.9421367:4536.0:1517.226:2429226.0:1569703.0:1:4344.48` from `NVZ/SGATE` 
+2023-09-29 07:33:13,155 - INFO: Received `-0.64:30.89:42.07:10.34:5678.` from `NVZ/ANALOG` 
+2023-09-29 07:33:13,156 - INFO: Received `246:8500` from `NVZ/RTD` 
+2023-09-29 07:33:13,156 - INFO: -t NVZ/TBU -m {
+    "Umid": "0",
+    "Temp": "0"
+}
+2023-09-29 07:33:13,156 - INFO: Received `0:0` from `NVZ/TBU` 
+2023-09-29 07:33:13,156 - INFO: -t NVZ/COMPRESS/CP11 -m {
+    "PressSuccao": "-20",
+    "PressDesc": "180",
+    "PressOleoReserv": "378",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-204",
+    "TempOleo": "516",
+    "TempDesc": "514",
+    "CapacidadeCP": "997",
+    "Corrente": "0",
+    "Horimetro": "1021206"
+}
+2023-09-29 07:33:13,156 - INFO: -t NVZ/COMPRESS/CP12 -m {
+    "PressSuccao": "281",
+    "PressDesc": "634",
+    "PressOleoReserv": "10",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "169",
+    "TempOleo": "171",
+    "TempDesc": "178",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "51177"
+}
+2023-09-29 07:33:13,156 - INFO: -t NVZ/COMPRESS/CP16 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:33:13,157 - INFO: -t NVZ/COMPRESS/CP17 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:34:13,592 - INFO: -t NVZ/TBU -m {
+    "Umid": "0",
+    "Temp": "0"
+}
+2023-09-29 07:34:13,592 - INFO: Received `0:0` from `NVZ/TBU` 
+2023-09-29 07:34:13,803 - INFO: -t NVZ/COMPRESS/CP11 -m {
+    "PressSuccao": "-20",
+    "PressDesc": "215",
+    "PressOleoReserv": "374",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-204",
+    "TempOleo": "530",
+    "TempDesc": "543",
+    "CapacidadeCP": "997",
+    "Corrente": "0",
+    "Horimetro": "1021206"
+}
+2023-09-29 07:34:13,804 - INFO: -t NVZ/COMPRESS/CP12 -m {
+    "PressSuccao": "270",
+    "PressDesc": "634",
+    "PressOleoReserv": "11",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "170",
+    "TempOleo": "171",
+    "TempDesc": "179",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "51177"
+}
+2023-09-29 07:34:13,804 - INFO: -t NVZ/COMPRESS/CP16 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:34:13,804 - INFO: -t NVZ/COMPRESS/CP17 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:34:13,804 - INFO: -t NVZ/COMPRESS/CP18 -m {
+    "PressSuccao": "210",
+    "PressDesc": "1016",
+    "PressOleoReserv": "263",
+    "PressOleoFiltro": "83",
+    "TempSuccao": "-63",
+    "TempOleo": "798",
+    "TempDesc": "412",
+    "CapacidadeCP": "991",
+    "Corrente": "360",
+    "Horimetro": "32269"
+}
+2023-09-29 07:34:13,805 - INFO: -t NVZ/COMPRESS/CP20 -m {
+    "PressSuccao": "-9",
+    "PressDesc": "104",
+    "PressOleoReserv": "133",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-298",
+    "TempOleo": "782",
+    "TempDesc": "546",
+    "CapacidadeCP": "1000",
+    "Corrente": "419",
+    "Horimetro": "426639360"
+}
+2023-09-29 07:34:13,805 - INFO: -t NVZ/COMPRESS/CP21 -m {
+    "PressSuccao": "2",
+    "PressDesc": "105",
+    "PressOleoReserv": "134",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-306",
+    "TempOleo": "781",
+    "TempDesc": "527",
+    "CapacidadeCP": "1000",
+    "Corrente": "470",
+    "Horimetro": "606011392"
+}
+2023-09-29 07:34:13,805 - INFO: -t NVZ/COMPRESS/CP22 -m {
+    "PressSuccao": "224",
+    "PressDesc": "108",
+    "PressOleoReserv": "146",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-54",
+    "TempOleo": "612",
+    "TempDesc": "582",
+    "CapacidadeCP": "975",
+    "Corrente": "443",
+    "Horimetro": "699334656"
+}
+2023-09-29 07:34:13,805 - ERROR: Received invalid message from NVZ/SGATE2: :0.9394745:0.9414132:1587.6:4339.44
+2023-09-29 07:34:13,805 - INFO: Received `:0.9394745:0.9414132:1587.6:4339.44` from `NVZ/SGATE2` 
+2023-09-29 07:34:13,805 - INFO: Received `1061:4413:6320:11121:5591` from `NVZ/ANL` 
+2023-09-29 07:34:13,805 - INFO: Received `0000000000000000` from `NVZ/DGT` 
+2023-09-29 07:34:13,806 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9416289",
+    "DemandaAtivaInstante": "4082.4",
+    "DemandaReativaInstante": "1658.956",
+    "ConsumoAtivoTotal": "2429296.0",
+    "PeriodoMedicao": "1569774.0",
+    "ConsumoAtivoPeriodo": "1",
+    "DemandaAtivaMedia15min": "4339.44"
+}
+2023-09-29 07:34:13,806 - INFO: Received `0.9416289:4082.4:1658.956:2429296.0:1569774.0:1:4339.44` from `NVZ/SGATE` 
+2023-09-29 07:34:13,806 - INFO: Received `-0.64:29.42:42.13:10.49:5591.` from `NVZ/ANALOG` 
+2023-09-29 07:34:13,806 - INFO: Received `246:8500` from `NVZ/RTD` 
+2023-09-29 07:35:13,784 - INFO: -t NVZ/COMPRESS/CP21 -m {
+    "PressSuccao": "2",
+    "PressDesc": "105",
+    "PressOleoReserv": "134",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-306",
+    "TempOleo": "781",
+    "TempDesc": "527",
+    "CapacidadeCP": "1000",
+    "Corrente": "470",
+    "Horimetro": "606011392"
+}
+2023-09-29 07:35:13,986 - INFO: -t NVZ/COMPRESS/CP22 -m {
+    "PressSuccao": "224",
+    "PressDesc": "108",
+    "PressOleoReserv": "146",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-54",
+    "TempOleo": "612",
+    "TempDesc": "582",
+    "CapacidadeCP": "975",
+    "Corrente": "443",
+    "Horimetro": "699334656"
+}
+2023-09-29 07:35:13,986 - ERROR: Received invalid message from NVZ/SGATE2: :0.9396023:0.9414132:1587.6:4339.44
+2023-09-29 07:35:13,986 - INFO: Received `:0.9396023:0.9414132:1587.6:4339.44` from `NVZ/SGATE2` 
+2023-09-29 07:35:13,986 - INFO: Received `1061:4240:6436:11208:5572` from `NVZ/ANL` 
+2023-09-29 07:35:13,987 - INFO: Received `0000000000000000` from `NVZ/DGT` 
+2023-09-29 07:35:13,987 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9405205",
+    "DemandaAtivaInstante": "4536.0",
+    "DemandaReativaInstante": "1514.356",
+    "ConsumoAtivoTotal": "2429369.0",
+    "PeriodoMedicao": "1569847.0",
+    "ConsumoAtivoPeriodo": "1",
+    "DemandaAtivaMedia15min": "4344.48"
+}
+2023-09-29 07:35:13,987 - INFO: Received `0.9405205:4536.0:1514.356:2429369.0:1569847.0:1:4344.48` from `NVZ/SGATE` 
+2023-09-29 07:35:13,987 - INFO: Received `-0.64:28.26:42.90:10.58:5562.` from `NVZ/ANALOG` 
+2023-09-29 07:35:13,987 - INFO: Received `249:8500` from `NVZ/RTD` 
+2023-09-29 07:35:13,987 - INFO: -t NVZ/TBU -m {
+    "Umid": "0",
+    "Temp": "0"
+}
+2023-09-29 07:35:13,988 - INFO: Received `0:0` from `NVZ/TBU` 
+2023-09-29 07:35:13,988 - INFO: -t NVZ/COMPRESS/CP11 -m {
+    "PressSuccao": "-20",
+    "PressDesc": "215",
+    "PressOleoReserv": "374",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-204",
+    "TempOleo": "530",
+    "TempDesc": "543",
+    "CapacidadeCP": "997",
+    "Corrente": "0",
+    "Horimetro": "1021206"
+}
+2023-09-29 07:35:13,988 - INFO: -t NVZ/COMPRESS/CP12 -m {
+    "PressSuccao": "270",
+    "PressDesc": "634",
+    "PressOleoReserv": "11",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "170",
+    "TempOleo": "171",
+    "TempDesc": "179",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "51177"
+}
+2023-09-29 07:35:13,988 - INFO: -t NVZ/COMPRESS/CP16 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:35:13,988 - INFO: -t NVZ/COMPRESS/CP17 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:35:13,989 - INFO: -t NVZ/COMPRESS/CP18 -m {
+    "PressSuccao": "210",
+    "PressDesc": "1016",
+    "PressOleoReserv": "263",
+    "PressOleoFiltro": "83",
+    "TempSuccao": "-63",
+    "TempOleo": "798",
+    "TempDesc": "412",
+    "CapacidadeCP": "991",
+    "Corrente": "360",
+    "Horimetro": "32269"
+}
+2023-09-29 07:35:13,989 - INFO: -t NVZ/COMPRESS/CP20 -m {
+    "PressSuccao": "-9",
+    "PressDesc": "104",
+    "PressOleoReserv": "133",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-298",
+    "TempOleo": "782",
+    "TempDesc": "546",
+    "CapacidadeCP": "1000",
+    "Corrente": "419",
+    "Horimetro": "426639360"
+}
+2023-09-29 07:36:14,201 - INFO: -t NVZ/COMPRESS/CP16 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:36:14,388 - INFO: -t NVZ/COMPRESS/CP17 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:36:14,389 - INFO: -t NVZ/COMPRESS/CP18 -m {
+    "PressSuccao": "210",
+    "PressDesc": "1016",
+    "PressOleoReserv": "263",
+    "PressOleoFiltro": "83",
+    "TempSuccao": "-63",
+    "TempOleo": "798",
+    "TempDesc": "412",
+    "CapacidadeCP": "991",
+    "Corrente": "360",
+    "Horimetro": "32269"
+}
+2023-09-29 07:36:14,389 - INFO: -t NVZ/COMPRESS/CP20 -m {
+    "PressSuccao": "-9",
+    "PressDesc": "104",
+    "PressOleoReserv": "133",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-298",
+    "TempOleo": "782",
+    "TempDesc": "546",
+    "CapacidadeCP": "1000",
+    "Corrente": "419",
+    "Horimetro": "426639360"
+}
+2023-09-29 07:36:14,389 - INFO: -t NVZ/COMPRESS/CP21 -m {
+    "PressSuccao": "2",
+    "PressDesc": "105",
+    "PressOleoReserv": "134",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-306",
+    "TempOleo": "781",
+    "TempDesc": "527",
+    "CapacidadeCP": "1000",
+    "Corrente": "470",
+    "Horimetro": "606011392"
+}
+2023-09-29 07:36:14,389 - INFO: -t NVZ/COMPRESS/CP22 -m {
+    "PressSuccao": "224",
+    "PressDesc": "108",
+    "PressOleoReserv": "146",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-54",
+    "TempOleo": "612",
+    "TempDesc": "582",
+    "CapacidadeCP": "975",
+    "Corrente": "443",
+    "Horimetro": "699334656"
+}
+2023-09-29 07:36:14,389 - ERROR: Received invalid message from NVZ/SGATE2: :0.9393796:0.9414132:1587.6:4339.44
+2023-09-29 07:36:14,389 - INFO: Received `:0.9393796:0.9414132:1587.6:4339.44` from `NVZ/SGATE2` 
+2023-09-29 07:36:14,389 - INFO: Received `1052:4067:6513:11237:5774` from `NVZ/ANL` 
+2023-09-29 07:36:14,390 - INFO: Received `0000000000000000` from `NVZ/DGT` 
+2023-09-29 07:36:14,390 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9347627",
+    "DemandaAtivaInstante": "4082.4",
+    "DemandaReativaInstante": "1647.059",
+    "ConsumoAtivoTotal": "2429443.0",
+    "PeriodoMedicao": "1569920.0",
+    "ConsumoAtivoPeriodo": "1",
+    "DemandaAtivaMedia15min": "4349.52"
+}
+2023-09-29 07:36:14,390 - INFO: Received `0.9347627:4082.4:1647.059:2429443.0:1569920.0:1:4349.52` from `NVZ/SGATE` 
+2023-09-29 07:36:14,390 - INFO: Received `-0.64:27.05:43.48:10.61:5793.` from `NVZ/ANALOG` 
+2023-09-29 07:36:14,390 - INFO: Received `249:8500` from `NVZ/RTD` 
+2023-09-29 07:36:14,390 - INFO: -t NVZ/TBU -m {
+    "Umid": "0",
+    "Temp": "0"
+}
+2023-09-29 07:36:14,390 - INFO: Received `0:0` from `NVZ/TBU` 
+2023-09-29 07:36:14,391 - INFO: -t NVZ/COMPRESS/CP11 -m {
+    "PressSuccao": "-20",
+    "PressDesc": "215",
+    "PressOleoReserv": "374",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-204",
+    "TempOleo": "530",
+    "TempDesc": "543",
+    "CapacidadeCP": "997",
+    "Corrente": "0",
+    "Horimetro": "1021206"
+}
+2023-09-29 07:36:14,391 - INFO: -t NVZ/COMPRESS/CP12 -m {
+    "PressSuccao": "270",
+    "PressDesc": "634",
+    "PressOleoReserv": "11",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "170",
+    "TempOleo": "171",
+    "TempDesc": "179",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "51177"
+}
+2023-09-29 07:37:14,516 - INFO: Received `0000000000000000` from `NVZ/DGT` 
+2023-09-29 07:37:14,719 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9385096",
+    "DemandaAtivaInstante": "4082.4",
+    "DemandaReativaInstante": "1514.692",
+    "ConsumoAtivoTotal": "2429516.0",
+    "PeriodoMedicao": "1569993.0",
+    "ConsumoAtivoPeriodo": "1",
+    "DemandaAtivaMedia15min": "4354.56"
+}
+2023-09-29 07:37:14,720 - INFO: Received `0.9385096:4082.4:1514.692:2429516.0:1569993.0:1:4354.56` from `NVZ/SGATE` 
+2023-09-29 07:37:14,720 - INFO: Received `-0.64:26.73:42.84:10.65:5350.` from `NVZ/ANALOG` 
+2023-09-29 07:37:14,720 - INFO: Received `249:8500` from `NVZ/RTD` 
+2023-09-29 07:37:14,720 - INFO: -t NVZ/TBU -m {
+    "Umid": "0",
+    "Temp": "0"
+}
+2023-09-29 07:37:14,720 - INFO: Received `0:0` from `NVZ/TBU` 
+2023-09-29 07:37:14,721 - INFO: -t NVZ/COMPRESS/CP11 -m {
+    "PressSuccao": "-20",
+    "PressDesc": "215",
+    "PressOleoReserv": "374",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-204",
+    "TempOleo": "530",
+    "TempDesc": "543",
+    "CapacidadeCP": "997",
+    "Corrente": "0",
+    "Horimetro": "1021206"
+}
+2023-09-29 07:37:14,721 - INFO: -t NVZ/COMPRESS/CP12 -m {
+    "PressSuccao": "270",
+    "PressDesc": "634",
+    "PressOleoReserv": "11",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "170",
+    "TempOleo": "171",
+    "TempDesc": "179",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "51177"
+}
+2023-09-29 07:37:14,721 - INFO: -t NVZ/COMPRESS/CP16 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:37:14,721 - INFO: -t NVZ/COMPRESS/CP17 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:37:14,907 - INFO: -t NVZ/COMPRESS/CP18 -m {
+    "PressSuccao": "210",
+    "PressDesc": "1016",
+    "PressOleoReserv": "263",
+    "PressOleoFiltro": "83",
+    "TempSuccao": "-63",
+    "TempOleo": "798",
+    "TempDesc": "412",
+    "CapacidadeCP": "991",
+    "Corrente": "360",
+    "Horimetro": "32269"
+}
+2023-09-29 07:37:14,908 - INFO: -t NVZ/COMPRESS/CP20 -m {
+    "PressSuccao": "-9",
+    "PressDesc": "104",
+    "PressOleoReserv": "133",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-298",
+    "TempOleo": "782",
+    "TempDesc": "546",
+    "CapacidadeCP": "1000",
+    "Corrente": "419",
+    "Horimetro": "426639360"
+}
+2023-09-29 07:37:14,908 - INFO: -t NVZ/COMPRESS/CP21 -m {
+    "PressSuccao": "2",
+    "PressDesc": "105",
+    "PressOleoReserv": "134",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-306",
+    "TempOleo": "781",
+    "TempDesc": "527",
+    "CapacidadeCP": "1000",
+    "Corrente": "470",
+    "Horimetro": "606011392"
+}
+2023-09-29 07:37:14,908 - INFO: -t NVZ/COMPRESS/CP22 -m {
+    "PressSuccao": "224",
+    "PressDesc": "108",
+    "PressOleoReserv": "146",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-54",
+    "TempOleo": "612",
+    "TempDesc": "582",
+    "CapacidadeCP": "975",
+    "Corrente": "443",
+    "Horimetro": "699334656"
+}
+2023-09-29 07:37:14,909 - ERROR: Received invalid message from NVZ/SGATE2: :0.9395073:0.9414132:1587.6:4339.44
+2023-09-29 07:37:14,909 - INFO: Received `:0.9395073:0.9414132:1587.6:4339.44` from `NVZ/SGATE2` 
+2023-09-29 07:37:14,909 - INFO: Received `1061:3971:6407:11275:5350` from `NVZ/ANL` 
+2023-09-29 07:38:14,824 - INFO: Received `0000000000000000` from `NVZ/DGT` 
+2023-09-29 07:38:14,928 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9357043",
+    "DemandaAtivaInstante": "4082.4",
+    "DemandaReativaInstante": "1647.059",
+    "ConsumoAtivoTotal": "2429586.0",
+    "PeriodoMedicao": "1570063.0",
+    "ConsumoAtivoPeriodo": "1",
+    "DemandaAtivaMedia15min": "4349.52"
+}
+2023-09-29 07:38:14,929 - INFO: Received `0.9357043:4082.4:1647.059:2429586.0:1570063.0:1:4349.52` from `NVZ/SGATE` 
+2023-09-29 07:38:14,929 - INFO: Received `-0.64:25.51:42.13:10.66:5697.` from `NVZ/ANALOG` 
+2023-09-29 07:38:14,930 - INFO: Received `253:8500` from `NVZ/RTD` 
+2023-09-29 07:38:14,930 - INFO: -t NVZ/TBU -m {
+    "Umid": "0",
+    "Temp": "0"
+}
+2023-09-29 07:38:14,930 - INFO: Received `0:0` from `NVZ/TBU` 
+2023-09-29 07:38:14,930 - INFO: -t NVZ/COMPRESS/CP11 -m {
+    "PressSuccao": "-20",
+    "PressDesc": "186",
+    "PressOleoReserv": "372",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-203",
+    "TempOleo": "522",
+    "TempDesc": "521",
+    "CapacidadeCP": "997",
+    "Corrente": "0",
+    "Horimetro": "1021206"
+}
+2023-09-29 07:38:14,933 - INFO: -t NVZ/COMPRESS/CP12 -m {
+    "PressSuccao": "270",
+    "PressDesc": "633",
+    "PressOleoReserv": "9",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "171",
+    "TempOleo": "171",
+    "TempDesc": "180",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "51177"
+}
+2023-09-29 07:38:14,934 - INFO: -t NVZ/COMPRESS/CP16 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:38:14,934 - INFO: -t NVZ/COMPRESS/CP17 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:38:14,935 - INFO: -t NVZ/COMPRESS/CP18 -m {
+    "PressSuccao": "180",
+    "PressDesc": "1047",
+    "PressOleoReserv": "260",
+    "PressOleoFiltro": "84",
+    "TempSuccao": "-67",
+    "TempOleo": "825",
+    "TempDesc": "414",
+    "CapacidadeCP": "991",
+    "Corrente": "357",
+    "Horimetro": "32269"
+}
+2023-09-29 07:38:14,935 - INFO: -t NVZ/COMPRESS/CP20 -m {
+    "PressSuccao": "-10",
+    "PressDesc": "108",
+    "PressOleoReserv": "137",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-298",
+    "TempOleo": "784",
+    "TempDesc": "549",
+    "CapacidadeCP": "1000",
+    "Corrente": "420",
+    "Horimetro": "426639360"
+}
+2023-09-29 07:38:14,935 - INFO: -t NVZ/COMPRESS/CP21 -m {
+    "PressSuccao": "2",
+    "PressDesc": "108",
+    "PressOleoReserv": "137",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-306",
+    "TempOleo": "781",
+    "TempDesc": "529",
+    "CapacidadeCP": "1000",
+    "Corrente": "470",
+    "Horimetro": "606011392"
+}
+2023-09-29 07:38:14,935 - INFO: -t NVZ/COMPRESS/CP22 -m {
+    "PressSuccao": "190",
+    "PressDesc": "111",
+    "PressOleoReserv": "149",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-68",
+    "TempOleo": "419",
+    "TempDesc": "398",
+    "CapacidadeCP": "999",
+    "Corrente": "449",
+    "Horimetro": "699334656"
+}
+2023-09-29 07:38:14,935 - ERROR: Received invalid message from NVZ/SGATE2: :0.9393796:0.9414132:1587.6:4339.44
+2023-09-29 07:38:14,935 - INFO: Received `:0.9393796:0.9414132:1587.6:4339.44` from `NVZ/SGATE2` 
+2023-09-29 07:38:14,936 - INFO: Received `1061:3827:6330:11275:5707` from `NVZ/ANL` 
+2023-09-29 07:39:15,350 - INFO: -t NVZ/COMPRESS/CP18 -m {
+    "PressSuccao": "180",
+    "PressDesc": "1047",
+    "PressOleoReserv": "260",
+    "PressOleoFiltro": "84",
+    "TempSuccao": "-67",
+    "TempOleo": "825",
+    "TempDesc": "414",
+    "CapacidadeCP": "991",
+    "Corrente": "357",
+    "Horimetro": "32269"
+}
+2023-09-29 07:39:15,481 - INFO: -t NVZ/COMPRESS/CP20 -m {
+    "PressSuccao": "-10",
+    "PressDesc": "108",
+    "PressOleoReserv": "137",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-298",
+    "TempOleo": "784",
+    "TempDesc": "549",
+    "CapacidadeCP": "1000",
+    "Corrente": "420",
+    "Horimetro": "426639360"
+}
+2023-09-29 07:39:15,482 - INFO: -t NVZ/COMPRESS/CP21 -m {
+    "PressSuccao": "2",
+    "PressDesc": "108",
+    "PressOleoReserv": "137",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-306",
+    "TempOleo": "781",
+    "TempDesc": "529",
+    "CapacidadeCP": "1000",
+    "Corrente": "470",
+    "Horimetro": "606011392"
+}
+2023-09-29 07:39:15,482 - INFO: -t NVZ/COMPRESS/CP22 -m {
+    "PressSuccao": "190",
+    "PressDesc": "111",
+    "PressOleoReserv": "149",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-68",
+    "TempOleo": "419",
+    "TempDesc": "398",
+    "CapacidadeCP": "999",
+    "Corrente": "449",
+    "Horimetro": "699334656"
+}
+2023-09-29 07:39:15,483 - ERROR: Received invalid message from NVZ/SGATE2: :0.9396023:0.9414132:1587.6:4339.44
+2023-09-29 07:39:15,483 - INFO: Received `:0.9396023:0.9414132:1587.6:4339.44` from `NVZ/SGATE2` 
+2023-09-29 07:39:15,483 - INFO: Received `1061:4019:6301:11294:5427` from `NVZ/ANL` 
+2023-09-29 07:39:15,483 - INFO: Received `0000000000000000` from `NVZ/DGT` 
+2023-09-29 07:39:15,484 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9412519",
+    "DemandaAtivaInstante": "4536.0",
+    "DemandaReativaInstante": "1517.945",
+    "ConsumoAtivoTotal": "2429659.0",
+    "PeriodoMedicao": "1570136.0",
+    "ConsumoAtivoPeriodo": "1",
+    "DemandaAtivaMedia15min": "4344.48"
+}
+2023-09-29 07:39:15,484 - INFO: Received `0.9412519:4536.0:1517.945:2429659.0:1570136.0:1:4344.48` from `NVZ/SGATE` 
+2023-09-29 07:39:15,484 - INFO: Received `-0.64:26.79:42.00:10.67:5427.` from `NVZ/ANALOG` 
+2023-09-29 07:39:15,484 - INFO: Received `253:8500` from `NVZ/RTD` 
+2023-09-29 07:39:15,484 - INFO: -t NVZ/TBU -m {
+    "Umid": "0",
+    "Temp": "0"
+}
+2023-09-29 07:39:15,484 - INFO: Received `0:0` from `NVZ/TBU` 
+2023-09-29 07:39:15,485 - INFO: -t NVZ/COMPRESS/CP11 -m {
+    "PressSuccao": "-20",
+    "PressDesc": "186",
+    "PressOleoReserv": "372",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-203",
+    "TempOleo": "522",
+    "TempDesc": "521",
+    "CapacidadeCP": "997",
+    "Corrente": "0",
+    "Horimetro": "1021206"
+}
+2023-09-29 07:39:15,485 - INFO: -t NVZ/COMPRESS/CP12 -m {
+    "PressSuccao": "270",
+    "PressDesc": "633",
+    "PressOleoReserv": "9",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "171",
+    "TempOleo": "171",
+    "TempDesc": "180",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "51177"
+}
+2023-09-29 07:39:15,485 - INFO: -t NVZ/COMPRESS/CP16 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:39:15,486 - INFO: -t NVZ/COMPRESS/CP17 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:40:15,767 - INFO: -t NVZ/COMPRESS/CP12 -m {
+    "PressSuccao": "270",
+    "PressDesc": "633",
+    "PressOleoReserv": "9",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "171",
+    "TempOleo": "171",
+    "TempDesc": "180",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "51177"
+}
+2023-09-29 07:40:15,970 - INFO: -t NVZ/COMPRESS/CP16 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:40:15,970 - INFO: -t NVZ/COMPRESS/CP17 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:40:15,970 - INFO: -t NVZ/COMPRESS/CP18 -m {
+    "PressSuccao": "180",
+    "PressDesc": "1047",
+    "PressOleoReserv": "260",
+    "PressOleoFiltro": "84",
+    "TempSuccao": "-67",
+    "TempOleo": "825",
+    "TempDesc": "414",
+    "CapacidadeCP": "991",
+    "Corrente": "357",
+    "Horimetro": "32269"
+}
+2023-09-29 07:40:15,971 - INFO: -t NVZ/COMPRESS/CP20 -m {
+    "PressSuccao": "-10",
+    "PressDesc": "108",
+    "PressOleoReserv": "137",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-298",
+    "TempOleo": "784",
+    "TempDesc": "549",
+    "CapacidadeCP": "1000",
+    "Corrente": "420",
+    "Horimetro": "426639360"
+}
+2023-09-29 07:40:15,971 - INFO: -t NVZ/COMPRESS/CP21 -m {
+    "PressSuccao": "2",
+    "PressDesc": "108",
+    "PressOleoReserv": "137",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-306",
+    "TempOleo": "781",
+    "TempDesc": "529",
+    "CapacidadeCP": "1000",
+    "Corrente": "470",
+    "Horimetro": "606011392"
+}
+2023-09-29 07:40:15,971 - INFO: -t NVZ/COMPRESS/CP22 -m {
+    "PressSuccao": "190",
+    "PressDesc": "111",
+    "PressOleoReserv": "149",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-68",
+    "TempOleo": "419",
+    "TempDesc": "398",
+    "CapacidadeCP": "999",
+    "Corrente": "449",
+    "Horimetro": "699334656"
+}
+2023-09-29 07:40:15,971 - ERROR: Received invalid message from NVZ/SGATE2: :0.9398252:0.9414132:1587.6:4339.44
+2023-09-29 07:40:15,971 - INFO: Received `:0.9398252:0.9414132:1587.6:4339.44` from `NVZ/SGATE2` 
+2023-09-29 07:40:15,971 - INFO: Received `1061:3933:6311:11294:5793` from `NVZ/ANL` 
+2023-09-29 07:40:15,972 - INFO: Received `0000000000000000` from `NVZ/DGT` 
+2023-09-29 07:40:15,972 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9394158",
+    "DemandaAtivaInstante": "4082.4",
+    "DemandaReativaInstante": "1501.655",
+    "ConsumoAtivoTotal": "2429731.0",
+    "PeriodoMedicao": "1570208.0",
+    "ConsumoAtivoPeriodo": "1",
+    "DemandaAtivaMedia15min": "4339.44"
+}
+2023-09-29 07:40:15,972 - INFO: Received `0.9394158:4082.4:1501.655:2429731.0:1570208.0:1:4339.44` from `NVZ/SGATE` 
+2023-09-29 07:40:15,972 - INFO: Received `-0.64:26.28:42.07:10.67:5784.` from `NVZ/ANALOG` 
+2023-09-29 07:40:15,972 - INFO: Received `256:8500` from `NVZ/RTD` 
+2023-09-29 07:40:15,972 - INFO: -t NVZ/TBU -m {
+    "Umid": "0",
+    "Temp": "0"
+}
+2023-09-29 07:40:15,972 - INFO: Received `0:0` from `NVZ/TBU` 
+2023-09-29 07:40:15,972 - INFO: -t NVZ/COMPRESS/CP11 -m {
+    "PressSuccao": "-20",
+    "PressDesc": "186",
+    "PressOleoReserv": "372",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-203",
+    "TempOleo": "522",
+    "TempDesc": "521",
+    "CapacidadeCP": "997",
+    "Corrente": "0",
+    "Horimetro": "1021206"
+}
+2023-09-29 07:41:16,903 - INFO: Received `1052:4346:6320:11006:5495` from `NVZ/ANL` 
+2023-09-29 07:41:16,903 - INFO: Received `0000000000000000` from `NVZ/DGT` 
+2023-09-29 07:41:16,904 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9382779",
+    "DemandaAtivaInstante": "4082.4",
+    "DemandaReativaInstante": "1691.065",
+    "ConsumoAtivoTotal": "2429803.0",
+    "PeriodoMedicao": "1570280.0",
+    "ConsumoAtivoPeriodo": "1",
+    "DemandaAtivaMedia15min": "4334.4"
+}
+2023-09-29 07:41:16,904 - INFO: Received `0.9382779:4082.4:1691.065:2429803.0:1570280.0:1:4334.4` from `NVZ/SGATE` 
+2023-09-29 07:41:16,904 - INFO: Received `-0.64:28.90:42.13:10.38:5504.` from `NVZ/ANALOG` 
+2023-09-29 07:41:16,904 - INFO: Received `256:8500` from `NVZ/RTD` 
+2023-09-29 07:41:16,905 - INFO: -t NVZ/TBU -m {
+    "Umid": "0",
+    "Temp": "0"
+}
+2023-09-29 07:41:16,905 - INFO: Received `0:0` from `NVZ/TBU` 
+2023-09-29 07:41:16,905 - INFO: -t NVZ/COMPRESS/CP11 -m {
+    "PressSuccao": "-20",
+    "PressDesc": "186",
+    "PressOleoReserv": "372",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-203",
+    "TempOleo": "522",
+    "TempDesc": "521",
+    "CapacidadeCP": "997",
+    "Corrente": "0",
+    "Horimetro": "1021206"
+}
+2023-09-29 07:41:16,905 - INFO: -t NVZ/COMPRESS/CP12 -m {
+    "PressSuccao": "270",
+    "PressDesc": "633",
+    "PressOleoReserv": "9",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "171",
+    "TempOleo": "171",
+    "TempDesc": "180",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "51177"
+}
+2023-09-29 07:41:16,905 - INFO: -t NVZ/COMPRESS/CP16 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:41:16,906 - INFO: -t NVZ/COMPRESS/CP17 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:41:16,906 - INFO: -t NVZ/COMPRESS/CP18 -m {
+    "PressSuccao": "180",
+    "PressDesc": "1047",
+    "PressOleoReserv": "260",
+    "PressOleoFiltro": "84",
+    "TempSuccao": "-67",
+    "TempOleo": "825",
+    "TempDesc": "414",
+    "CapacidadeCP": "991",
+    "Corrente": "357",
+    "Horimetro": "32269"
+}
+2023-09-29 07:41:16,906 - INFO: -t NVZ/COMPRESS/CP20 -m {
+    "PressSuccao": "-10",
+    "PressDesc": "108",
+    "PressOleoReserv": "137",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-298",
+    "TempOleo": "784",
+    "TempDesc": "549",
+    "CapacidadeCP": "1000",
+    "Corrente": "420",
+    "Horimetro": "426639360"
+}
+2023-09-29 07:41:16,907 - INFO: -t NVZ/COMPRESS/CP21 -m {
+    "PressSuccao": "2",
+    "PressDesc": "108",
+    "PressOleoReserv": "137",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-306",
+    "TempOleo": "781",
+    "TempDesc": "529",
+    "CapacidadeCP": "1000",
+    "Corrente": "470",
+    "Horimetro": "606011392"
+}
+2023-09-29 07:41:16,907 - INFO: -t NVZ/COMPRESS/CP22 -m {
+    "PressSuccao": "190",
+    "PressDesc": "111",
+    "PressOleoReserv": "149",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-68",
+    "TempOleo": "419",
+    "TempDesc": "398",
+    "CapacidadeCP": "999",
+    "Corrente": "449",
+    "Horimetro": "699334656"
+}
+2023-09-29 07:41:16,907 - ERROR: Received invalid message from NVZ/SGATE2: :0.9396977:0.9414132:1587.6:4339.44
+2023-09-29 07:41:16,907 - INFO: Received `:0.9396977:0.9414132:1587.6:4339.44` from `NVZ/SGATE2` 
+2023-09-29 07:42:16,557 - INFO: -t NVZ/COMPRESS/CP16 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:42:16,644 - INFO: -t NVZ/COMPRESS/CP17 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:42:16,645 - INFO: -t NVZ/COMPRESS/CP18 -m {
+    "PressSuccao": "210",
+    "PressDesc": "1019",
+    "PressOleoReserv": "277",
+    "PressOleoFiltro": "72",
+    "TempSuccao": "-69",
+    "TempOleo": "817",
+    "TempDesc": "422",
+    "CapacidadeCP": "991",
+    "Corrente": "349",
+    "Horimetro": "32269"
+}
+2023-09-29 07:42:16,645 - INFO: -t NVZ/COMPRESS/CP20 -m {
+    "PressSuccao": "-10",
+    "PressDesc": "105",
+    "PressOleoReserv": "133",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-298",
+    "TempOleo": "784",
+    "TempDesc": "549",
+    "CapacidadeCP": "1000",
+    "Corrente": "420",
+    "Horimetro": "426639360"
+}
+2023-09-29 07:42:16,646 - INFO: -t NVZ/COMPRESS/CP21 -m {
+    "PressSuccao": "2",
+    "PressDesc": "108",
+    "PressOleoReserv": "137",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-306",
+    "TempOleo": "781",
+    "TempDesc": "529",
+    "CapacidadeCP": "1000",
+    "Corrente": "470",
+    "Horimetro": "606011392"
+}
+2023-09-29 07:42:16,646 - INFO: -t NVZ/COMPRESS/CP22 -m {
+    "PressSuccao": "190",
+    "PressDesc": "111",
+    "PressOleoReserv": "149",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-68",
+    "TempOleo": "419",
+    "TempDesc": "398",
+    "CapacidadeCP": "999",
+    "Corrente": "449",
+    "Horimetro": "699334656"
+}
+2023-09-29 07:42:16,646 - ERROR: Received invalid message from NVZ/SGATE2: :0.9396977:0.9414132:1587.6:4339.44
+2023-09-29 07:42:16,646 - INFO: Received `:0.9396977:0.9414132:1587.6:4339.44` from `NVZ/SGATE2` 
+2023-09-29 07:42:16,647 - INFO: Received `1061:4797:6340:10919:5745` from `NVZ/ANL` 
+2023-09-29 07:42:16,647 - INFO: Received `0000000000000000` from `NVZ/DGT` 
+2023-09-29 07:42:16,647 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.941938",
+    "DemandaAtivaInstante": "4082.4",
+    "DemandaReativaInstante": "1508.104",
+    "ConsumoAtivoTotal": "2429875.0",
+    "PeriodoMedicao": "1570352.0",
+    "ConsumoAtivoPeriodo": "1",
+    "DemandaAtivaMedia15min": "4334.4"
+}
+2023-09-29 07:42:16,647 - INFO: Received `0.941938:4082.4:1508.104:2429875.0:1570352.0:1:4334.4` from `NVZ/SGATE` 
+2023-09-29 07:42:16,647 - INFO: Received `-0.64:32.04:42.26:10.29:5735.` from `NVZ/ANALOG` 
+2023-09-29 07:42:16,647 - INFO: Received `253:8500` from `NVZ/RTD` 
+2023-09-29 07:42:16,648 - INFO: -t NVZ/TBU -m {
+    "Umid": "0",
+    "Temp": "0"
+}
+2023-09-29 07:42:16,648 - INFO: Received `0:0` from `NVZ/TBU` 
+2023-09-29 07:42:16,648 - INFO: -t NVZ/COMPRESS/CP11 -m {
+    "PressSuccao": "-20",
+    "PressDesc": "186",
+    "PressOleoReserv": "372",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-203",
+    "TempOleo": "522",
+    "TempDesc": "521",
+    "CapacidadeCP": "997",
+    "Corrente": "0",
+    "Horimetro": "1021206"
+}
+2023-09-29 07:42:16,648 - INFO: -t NVZ/COMPRESS/CP12 -m {
+    "PressSuccao": "270",
+    "PressDesc": "633",
+    "PressOleoReserv": "9",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "171",
+    "TempOleo": "171",
+    "TempDesc": "180",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "51177"
+}
+2023-09-29 07:43:16,917 - INFO: -t NVZ/COMPRESS/CP20 -m {
+    "PressSuccao": "-10",
+    "PressDesc": "105",
+    "PressOleoReserv": "133",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-298",
+    "TempOleo": "784",
+    "TempDesc": "551",
+    "CapacidadeCP": "1000",
+    "Corrente": "412",
+    "Horimetro": "426639360"
+}
+2023-09-29 07:43:17,107 - INFO: -t NVZ/COMPRESS/CP21 -m {
+    "PressSuccao": "2",
+    "PressDesc": "104",
+    "PressOleoReserv": "133",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-306",
+    "TempOleo": "782",
+    "TempDesc": "531",
+    "CapacidadeCP": "1000",
+    "Corrente": "466",
+    "Horimetro": "606011392"
+}
+2023-09-29 07:43:17,108 - INFO: -t NVZ/COMPRESS/CP22 -m {
+    "PressSuccao": "229",
+    "PressDesc": "109",
+    "PressOleoReserv": "147",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-58",
+    "TempOleo": "391",
+    "TempDesc": "381",
+    "CapacidadeCP": "999",
+    "Corrente": "447",
+    "Horimetro": "699334656"
+}
+2023-09-29 07:43:17,108 - ERROR: Received invalid message from NVZ/SGATE2: :0.9399211:0.9414132:1587.6:4339.44
+2023-09-29 07:43:17,108 - INFO: Received `:0.9399211:0.9414132:1587.6:4339.44` from `NVZ/SGATE2` 
+2023-09-29 07:43:17,109 - INFO: Received `1061:5037:6349:10919:5562` from `NVZ/ANL` 
+2023-09-29 07:43:17,109 - INFO: Received `0000000000000000` from `NVZ/DGT` 
+2023-09-29 07:43:17,109 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9420084",
+    "DemandaAtivaInstante": "4536.0",
+    "DemandaReativaInstante": "1514.524",
+    "ConsumoAtivoTotal": "2429947.0",
+    "PeriodoMedicao": "1570424.0",
+    "ConsumoAtivoPeriodo": "1",
+    "DemandaAtivaMedia15min": "4329.36"
+}
+2023-09-29 07:43:17,109 - INFO: Received `0.9420084:4536.0:1514.524:2429947.0:1570424.0:1:4329.36` from `NVZ/SGATE` 
+2023-09-29 07:43:17,109 - INFO: Received `-0.64:33.96:42.2:10.26:5572.` from `NVZ/ANALOG` 
+2023-09-29 07:43:17,110 - INFO: Received `253:8500` from `NVZ/RTD` 
+2023-09-29 07:43:17,110 - INFO: -t NVZ/TBU -m {
+    "Umid": "0",
+    "Temp": "0"
+}
+2023-09-29 07:43:17,110 - INFO: Received `0:0` from `NVZ/TBU` 
+2023-09-29 07:43:17,110 - INFO: -t NVZ/COMPRESS/CP11 -m {
+    "PressSuccao": "-18",
+    "PressDesc": "223",
+    "PressOleoReserv": "378",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-203",
+    "TempOleo": "522",
+    "TempDesc": "523",
+    "CapacidadeCP": "997",
+    "Corrente": "0",
+    "Horimetro": "1021206"
+}
+2023-09-29 07:43:17,110 - INFO: -t NVZ/COMPRESS/CP12 -m {
+    "PressSuccao": "270",
+    "PressDesc": "631",
+    "PressOleoReserv": "14",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "171",
+    "TempOleo": "172",
+    "TempDesc": "181",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "51177"
+}
+2023-09-29 07:43:17,111 - INFO: -t NVZ/COMPRESS/CP16 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:43:17,111 - INFO: -t NVZ/COMPRESS/CP17 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:43:17,111 - INFO: -t NVZ/COMPRESS/CP18 -m {
+    "PressSuccao": "210",
+    "PressDesc": "1019",
+    "PressOleoReserv": "277",
+    "PressOleoFiltro": "72",
+    "TempSuccao": "-69",
+    "TempOleo": "817",
+    "TempDesc": "422",
+    "CapacidadeCP": "991",
+    "Corrente": "349",
+    "Horimetro": "32269"
+}
+2023-09-29 07:44:17,335 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9418433",
+    "DemandaAtivaInstante": "4114.494",
+    "DemandaReativaInstante": "1514.692",
+    "ConsumoAtivoTotal": "2430017.0",
+    "PeriodoMedicao": "1570494.0",
+    "ConsumoAtivoPeriodo": "1",
+    "DemandaAtivaMedia15min": "4319.28"
+}
+2023-09-29 07:44:17,336 - INFO: Received `0.9418433:4114.494:1514.692:2430017.0:1570494.0:1:4319.28` from `NVZ/SGATE` 
+2023-09-29 07:44:17,525 - INFO: Received `-0.65:29.80:44.57:10.53:5880.` from `NVZ/ANALOG` 
+2023-09-29 07:44:17,525 - INFO: Received `249:8500` from `NVZ/RTD` 
+2023-09-29 07:44:17,526 - INFO: -t NVZ/TBU -m {
+    "Umid": "0",
+    "Temp": "0"
+}
+2023-09-29 07:44:17,526 - INFO: Received `0:0` from `NVZ/TBU` 
+2023-09-29 07:44:17,526 - INFO: -t NVZ/COMPRESS/CP11 -m {
+    "PressSuccao": "-18",
+    "PressDesc": "223",
+    "PressOleoReserv": "378",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-203",
+    "TempOleo": "522",
+    "TempDesc": "523",
+    "CapacidadeCP": "997",
+    "Corrente": "0",
+    "Horimetro": "1021206"
+}
+2023-09-29 07:44:17,527 - INFO: -t NVZ/COMPRESS/CP12 -m {
+    "PressSuccao": "270",
+    "PressDesc": "631",
+    "PressOleoReserv": "14",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "171",
+    "TempOleo": "172",
+    "TempDesc": "181",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "51177"
+}
+2023-09-29 07:44:17,527 - INFO: -t NVZ/COMPRESS/CP16 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:44:17,527 - INFO: -t NVZ/COMPRESS/CP17 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 07:44:17,527 - INFO: -t NVZ/COMPRESS/CP18 -m {
+    "PressSuccao": "210",
+    "PressDesc": "1019",
+    "PressOleoReserv": "277",
+    "PressOleoFiltro": "72",
+    "TempSuccao": "-69",
+    "TempOleo": "817",
+    "TempDesc": "422",
+    "CapacidadeCP": "991",
+    "Corrente": "349",
+    "Horimetro": "32269"
+}
+2023-09-29 07:44:17,528 - INFO: -t NVZ/COMPRESS/CP20 -m {
+    "PressSuccao": "-10",
+    "PressDesc": "105",
+    "PressOleoReserv": "133",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-298",
+    "TempOleo": "784",
+    "TempDesc": "551",
+    "CapacidadeCP": "1000",
+    "Corrente": "412",
+    "Horimetro": "426639360"
+}
+2023-09-29 07:44:17,528 - INFO: -t NVZ/COMPRESS/CP21 -m {
+    "PressSuccao": "2",
+    "PressDesc": "104",
+    "PressOleoReserv": "133",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-306",
+    "TempOleo": "782",
+    "TempDesc": "531",
+    "CapacidadeCP": "1000",
+    "Corrente": "466",
+    "Horimetro": "606011392"
+}
+2023-09-29 07:44:17,528 - INFO: -t NVZ/COMPRESS/CP22 -m {
+    "PressSuccao": "229",
+    "PressDesc": "109",
+    "PressOleoReserv": "147",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-58",
+    "TempOleo": "391",
+    "TempDesc": "381",
+    "CapacidadeCP": "999",
+    "Corrente": "447",
+    "Horimetro": "699334656"
+}
+2023-09-29 07:44:17,528 - ERROR: Received invalid message from NVZ/SGATE2: :0.9400175:0.9414132:1587.6:4339.44
+2023-09-29 07:44:17,528 - INFO: Received `:0.9400175:0.9414132:1587.6:4339.44` from `NVZ/SGATE2` 
+2023-09-29 07:44:17,528 - INFO: Received `1042:4471:6686:11160:5890` from `NVZ/ANL` 
+2023-09-29 07:44:17,529 - INFO: Received `0000000000000000` from `NVZ/DGT` 
+2023-09-29 07:55:51,941 - INFO: Disconnected with result code: 7
+2023-09-29 07:55:51,942 - INFO: Publishing Last Will message...
+2023-09-29 07:55:51,942 - ERROR: Failed to send message to topic teste
+2023-09-29 07:55:51,942 - INFO: Reconnecting in 1 seconds...
+2023-09-29 07:55:53,387 - INFO: Reconnected successfully!
+2023-09-29 07:55:54,970 - INFO: Connected to MQTT Broker!
+2023-09-29 08:06:38,426 - INFO: Connected to MQTT Broker!
+2023-09-29 08:06:38,428 - INFO: Received `0000000000000000` from `NVZ/DGT` 
+2023-09-29 08:06:38,428 - INFO: -t NVZ/TBU -m {
+    "Umid": "0",
+    "Temp": "0"
+}
+2023-09-29 08:06:38,428 - INFO: Received `0:0` from `NVZ/TBU` 
+2023-09-29 08:06:38,428 - INFO: Received `-0.64:31.53:42.84:10.51:5803.` from `NVZ/ANALOG` 
+2023-09-29 08:06:38,429 - INFO: Received `253:8500` from `NVZ/RTD` 
+2023-09-29 08:06:38,429 - INFO: -t NVZ/COMPRESS/CP11 -m {
+    "PressSuccao": "-19",
+    "PressDesc": "195",
+    "PressOleoReserv": "380",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-203",
+    "TempOleo": "511",
+    "TempDesc": "505",
+    "CapacidadeCP": "997",
+    "Corrente": "0",
+    "Horimetro": "1021206"
+}
+2023-09-29 08:06:38,429 - INFO: -t NVZ/COMPRESS/CP16 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 08:06:38,429 - INFO: -t NVZ/COMPRESS/CP17 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 08:06:38,430 - INFO: -t NVZ/COMPRESS/CP18 -m {
+    "PressSuccao": "190",
+    "PressDesc": "1037",
+    "PressOleoReserv": "263",
+    "PressOleoFiltro": "78",
+    "TempSuccao": "-68",
+    "TempOleo": "841",
+    "TempDesc": "427",
+    "CapacidadeCP": "991",
+    "Corrente": "343",
+    "Horimetro": "32269"
+}
+2023-09-29 08:06:38,430 - INFO: -t NVZ/COMPRESS/CP12 -m {
+    "PressSuccao": "270",
+    "PressDesc": "632",
+    "PressOleoReserv": "13",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "172",
+    "TempOleo": "173",
+    "TempDesc": "182",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "51177"
+}
+2023-09-29 08:06:38,430 - INFO: -t NVZ/COMPRESS/CP20 -m {
+    "PressSuccao": "-11",
+    "PressDesc": "106",
+    "PressOleoReserv": "135",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-298",
+    "TempOleo": "789",
+    "TempDesc": "553",
+    "CapacidadeCP": "1000",
+    "Corrente": "418",
+    "Horimetro": "426639360"
+}
+2023-09-29 08:06:38,431 - INFO: -t NVZ/COMPRESS/CP21 -m {
+    "PressSuccao": "2",
+    "PressDesc": "106",
+    "PressOleoReserv": "135",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-305",
+    "TempOleo": "786",
+    "TempDesc": "533",
+    "CapacidadeCP": "1000",
+    "Corrente": "470",
+    "Horimetro": "606011392"
+}
+2023-09-29 08:06:38,431 - INFO: -t NVZ/COMPRESS/CP22 -m {
+    "PressSuccao": "199",
+    "PressDesc": "109",
+    "PressOleoReserv": "147",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-65",
+    "TempOleo": "409",
+    "TempDesc": "386",
+    "CapacidadeCP": "977",
+    "Corrente": "444",
+    "Horimetro": "699400192"
+}
+2023-09-29 08:06:38,431 - INFO: -t NVZ/COMPRESS/CP13 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "604766208"
+}
+2023-09-29 08:06:38,431 - INFO: -t NVZ/COMPRESS/CP15 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "604766208"
+}
+2023-09-29 08:06:38,431 - INFO: -t NVZ/COMPRESS/CP19 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "604766208"
+}
+2023-09-29 08:06:38,431 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9434847",
+    "DemandaAtivaInstante": "4082.4",
+    "DemandaReativaInstante": "1360.8",
+    "ConsumoAtivoTotal": "2430726.0",
+    "PeriodoMedicao": "1571204.0",
+    "ConsumoAtivoPeriodo": "1",
+    "DemandaAtivaMedia15min": "4268.88"
+}
+2023-09-29 08:06:38,432 - INFO: Received `0.9434847:4082.4:1360.8:2430726.0:1571204.0:1:4268.88` from `NVZ/SGATE` 
+2023-09-29 08:06:38,432 - INFO: Received `11100111011110` from `NVZ/MB_HAB` 
+2023-09-29 08:06:38,432 - ERROR: Received invalid message from NVZ/SGATE2: :0.94262:0.9414132:1567.44:4309.2
+2023-09-29 08:06:38,432 - INFO: Received `:0.94262:0.9414132:1567.44:4309.2` from `NVZ/SGATE2` 
+2023-09-29 08:06:38,432 - INFO: Received `1061:4740:6426:11140:5803` from `NVZ/ANL` 
+2023-09-29 08:11:59,901 - INFO: Disconnected with result code: 7
+2023-09-29 08:11:59,901 - INFO: Publishing Last Will message...
+2023-09-29 08:11:59,901 - ERROR: Failed to send message to topic teste
+2023-09-29 08:11:59,903 - INFO: Reconnecting in 1 seconds...
+2023-09-29 08:12:02,679 - INFO: Reconnected successfully!
+2023-09-29 08:12:06,049 - INFO: Connected to MQTT Broker!
+2023-09-29 08:14:04,566 - INFO: Disconnected with result code: 16
+2023-09-29 08:14:04,566 - INFO: Publishing Last Will message...
+2023-09-29 08:14:04,566 - ERROR: Failed to send message to topic teste
+2023-09-29 08:14:04,567 - INFO: Reconnecting in 1 seconds...
+2023-09-29 08:14:05,568 - ERROR: [Errno 11001] getaddrinfo failed. Reconnect failed. Retrying...
+2023-09-29 08:14:05,579 - INFO: Reconnecting in 2 seconds...
+2023-09-29 08:14:07,581 - ERROR: [Errno 11001] getaddrinfo failed. Reconnect failed. Retrying...
+2023-09-29 08:14:07,581 - INFO: Reconnecting in 4 seconds...
+2023-09-29 08:14:11,582 - ERROR: [Errno 11001] getaddrinfo failed. Reconnect failed. Retrying...
+2023-09-29 08:14:11,582 - INFO: Reconnecting in 8 seconds...
+2023-09-29 08:14:19,584 - ERROR: [Errno 11001] getaddrinfo failed. Reconnect failed. Retrying...
+2023-09-29 08:14:19,584 - INFO: Reconnecting in 16 seconds...
+2023-09-29 08:14:35,585 - ERROR: [Errno 11001] getaddrinfo failed. Reconnect failed. Retrying...
+2023-09-29 08:14:35,585 - INFO: Reconnecting in 32 seconds...
+2023-09-29 08:15:07,587 - ERROR: [Errno 11001] getaddrinfo failed. Reconnect failed. Retrying...
+2023-09-29 08:15:07,587 - INFO: Reconnecting in 60 seconds...
+2023-09-29 08:16:07,589 - ERROR: [Errno 11001] getaddrinfo failed. Reconnect failed. Retrying...
+2023-09-29 08:16:07,589 - INFO: Reconnecting in 60 seconds...
+2023-09-29 08:30:58,004 - INFO: Reconnected successfully!
+2023-09-29 08:30:58,206 - INFO: Connected to MQTT Broker!
+2023-09-29 08:38:45,406 - INFO: Disconnected with result code: 7
+2023-09-29 08:38:45,406 - INFO: Publishing Last Will message...
+2023-09-29 08:38:45,406 - ERROR: Failed to send message to topic teste
+2023-09-29 08:38:45,406 - INFO: Reconnecting in 1 seconds...
+2023-09-29 08:38:47,101 - INFO: Reconnected successfully!
+2023-09-29 08:38:48,565 - INFO: Connected to MQTT Broker!
+2023-09-29 08:48:28,964 - INFO: Connected to MQTT Broker!
+2023-09-29 08:48:28,969 - INFO: Received `0000000000000000` from `NVZ/DGT` 
+2023-09-29 08:48:28,970 - INFO: -t NVZ/TBU -m {
+    "Umid": "0",
+    "Temp": "0"
+}
+2023-09-29 08:48:28,970 - INFO: Received `0:0` from `NVZ/TBU` 
+2023-09-29 08:48:28,970 - INFO: Received `-0.64:31.53:42.84:10.51:5803.` from `NVZ/ANALOG` 
+2023-09-29 08:48:28,970 - INFO: Received `253:8500` from `NVZ/RTD` 
+2023-09-29 08:48:28,970 - INFO: -t NVZ/COMPRESS/CP11 -m {
+    "PressSuccao": "-19",
+    "PressDesc": "195",
+    "PressOleoReserv": "380",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-203",
+    "TempOleo": "511",
+    "TempDesc": "505",
+    "CapacidadeCP": "997",
+    "Corrente": "0",
+    "Horimetro": "1021206"
+}
+2023-09-29 08:48:28,971 - INFO: -t NVZ/COMPRESS/CP16 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 08:48:28,971 - INFO: -t NVZ/COMPRESS/CP17 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 08:48:28,971 - INFO: -t NVZ/COMPRESS/CP18 -m {
+    "PressSuccao": "190",
+    "PressDesc": "1037",
+    "PressOleoReserv": "263",
+    "PressOleoFiltro": "78",
+    "TempSuccao": "-68",
+    "TempOleo": "841",
+    "TempDesc": "427",
+    "CapacidadeCP": "991",
+    "Corrente": "343",
+    "Horimetro": "32269"
+}
+2023-09-29 08:48:28,971 - INFO: -t NVZ/COMPRESS/CP12 -m {
+    "PressSuccao": "270",
+    "PressDesc": "632",
+    "PressOleoReserv": "13",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "172",
+    "TempOleo": "173",
+    "TempDesc": "182",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "51177"
+}
+2023-09-29 08:48:28,972 - INFO: -t NVZ/COMPRESS/CP20 -m {
+    "PressSuccao": "-11",
+    "PressDesc": "106",
+    "PressOleoReserv": "135",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-298",
+    "TempOleo": "789",
+    "TempDesc": "553",
+    "CapacidadeCP": "1000",
+    "Corrente": "418",
+    "Horimetro": "426639360"
+}
+2023-09-29 08:48:28,972 - INFO: -t NVZ/COMPRESS/CP21 -m {
+    "PressSuccao": "2",
+    "PressDesc": "106",
+    "PressOleoReserv": "135",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-305",
+    "TempOleo": "786",
+    "TempDesc": "533",
+    "CapacidadeCP": "1000",
+    "Corrente": "470",
+    "Horimetro": "606011392"
+}
+2023-09-29 08:48:28,972 - INFO: -t NVZ/COMPRESS/CP22 -m {
+    "PressSuccao": "199",
+    "PressDesc": "109",
+    "PressOleoReserv": "147",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-65",
+    "TempOleo": "409",
+    "TempDesc": "386",
+    "CapacidadeCP": "977",
+    "Corrente": "444",
+    "Horimetro": "699400192"
+}
+2023-09-29 08:48:28,972 - INFO: -t NVZ/COMPRESS/CP13 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "604766208"
+}
+2023-09-29 08:48:28,972 - INFO: -t NVZ/COMPRESS/CP15 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "604766208"
+}
+2023-09-29 08:48:28,972 - INFO: -t NVZ/COMPRESS/CP19 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "604766208"
+}
+2023-09-29 08:48:28,972 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9434847",
+    "DemandaAtivaInstante": "4082.4",
+    "DemandaReativaInstante": "1360.8",
+    "ConsumoAtivoTotal": "2430726.0",
+    "PeriodoMedicao": "1571204.0",
+    "ConsumoAtivoPeriodo": "1",
+    "DemandaAtivaMedia15min": "4268.88"
+}
+2023-09-29 08:48:28,972 - INFO: Received `0.9434847:4082.4:1360.8:2430726.0:1571204.0:1:4268.88` from `NVZ/SGATE` 
+2023-09-29 08:48:28,972 - INFO: Received `11100111011110` from `NVZ/MB_HAB` 
+2023-09-29 08:48:28,974 - ERROR: Received invalid message from NVZ/SGATE2: :0.94262:0.9414132:1567.44:4309.2
+2023-09-29 08:48:28,974 - INFO: Received `:0.94262:0.9414132:1567.44:4309.2` from `NVZ/SGATE2` 
+2023-09-29 08:48:28,975 - INFO: Received `1061:4740:6426:11140:5803` from `NVZ/ANL` 
+2023-09-29 08:52:01,875 - INFO: Connected to MQTT Broker!
+2023-09-29 08:52:01,896 - INFO: Received `0000000000000000` from `NVZ/DGT` 
+2023-09-29 08:52:01,896 - INFO: -t NVZ/TBU -m {
+    "Umid": "0",
+    "Temp": "0"
+}
+2023-09-29 08:52:01,896 - INFO: Received `0:0` from `NVZ/TBU` 
+2023-09-29 08:52:01,897 - INFO: Received `-0.64:31.53:42.84:10.51:5803.` from `NVZ/ANALOG` 
+2023-09-29 08:52:01,897 - INFO: Received `253:8500` from `NVZ/RTD` 
+2023-09-29 08:52:01,897 - INFO: -t NVZ/COMPRESS/CP11 -m {
+    "PressSuccao": "-19",
+    "PressDesc": "195",
+    "PressOleoReserv": "380",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-203",
+    "TempOleo": "511",
+    "TempDesc": "505",
+    "CapacidadeCP": "997",
+    "Corrente": "0",
+    "Horimetro": "1021206"
+}
+2023-09-29 08:52:01,898 - INFO: -t NVZ/COMPRESS/CP16 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 08:52:01,898 - INFO: -t NVZ/COMPRESS/CP17 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "0"
+}
+2023-09-29 08:52:01,898 - INFO: -t NVZ/COMPRESS/CP18 -m {
+    "PressSuccao": "190",
+    "PressDesc": "1037",
+    "PressOleoReserv": "263",
+    "PressOleoFiltro": "78",
+    "TempSuccao": "-68",
+    "TempOleo": "841",
+    "TempDesc": "427",
+    "CapacidadeCP": "991",
+    "Corrente": "343",
+    "Horimetro": "32269"
+}
+2023-09-29 08:52:01,899 - INFO: -t NVZ/COMPRESS/CP12 -m {
+    "PressSuccao": "270",
+    "PressDesc": "632",
+    "PressOleoReserv": "13",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "172",
+    "TempOleo": "173",
+    "TempDesc": "182",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "51177"
+}
+2023-09-29 08:52:01,899 - INFO: -t NVZ/COMPRESS/CP20 -m {
+    "PressSuccao": "-11",
+    "PressDesc": "106",
+    "PressOleoReserv": "135",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-298",
+    "TempOleo": "789",
+    "TempDesc": "553",
+    "CapacidadeCP": "1000",
+    "Corrente": "418",
+    "Horimetro": "426639360"
+}
+2023-09-29 08:52:01,899 - INFO: -t NVZ/COMPRESS/CP21 -m {
+    "PressSuccao": "2",
+    "PressDesc": "106",
+    "PressOleoReserv": "135",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-305",
+    "TempOleo": "786",
+    "TempDesc": "533",
+    "CapacidadeCP": "1000",
+    "Corrente": "470",
+    "Horimetro": "606011392"
+}
+2023-09-29 08:52:01,899 - INFO: -t NVZ/COMPRESS/CP22 -m {
+    "PressSuccao": "199",
+    "PressDesc": "109",
+    "PressOleoReserv": "147",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-65",
+    "TempOleo": "409",
+    "TempDesc": "386",
+    "CapacidadeCP": "977",
+    "Corrente": "444",
+    "Horimetro": "699400192"
+}
+2023-09-29 08:52:01,899 - INFO: -t NVZ/COMPRESS/CP13 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "604766208"
+}
+2023-09-29 08:52:01,900 - INFO: -t NVZ/COMPRESS/CP15 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "604766208"
+}
+2023-09-29 08:52:01,900 - INFO: -t NVZ/COMPRESS/CP19 -m {
+    "PressSuccao": "0",
+    "PressDesc": "0",
+    "PressOleoReserv": "0",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "0",
+    "TempOleo": "0",
+    "TempDesc": "0",
+    "CapacidadeCP": "0",
+    "Corrente": "0",
+    "Horimetro": "604766208"
+}
+2023-09-29 08:52:01,900 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9434847",
+    "DemandaAtivaInstante": "4082.4",
+    "DemandaReativaInstante": "1360.8",
+    "ConsumoAtivoTotal": "2430726.0",
+    "PeriodoMedicao": "1571204.0",
+    "ConsumoAtivoPeriodo": "1",
+    "DemandaAtivaMedia15min": "4268.88"
+}
+2023-09-29 08:52:01,900 - INFO: Received `0.9434847:4082.4:1360.8:2430726.0:1571204.0:1:4268.88` from `NVZ/SGATE` 
+2023-09-29 08:52:01,900 - INFO: Received `11100111011110` from `NVZ/MB_HAB` 
+2023-09-29 08:52:01,900 - ERROR: Received invalid message from NVZ/SGATE2: :0.94262:0.9414132:1567.44:4309.2
+2023-09-29 08:52:01,900 - INFO: Received `:0.94262:0.9414132:1567.44:4309.2` from `NVZ/SGATE2` 
+2023-09-29 08:52:01,901 - INFO: Received `1061:4740:6426:11140:5803` from `NVZ/ANL` 
