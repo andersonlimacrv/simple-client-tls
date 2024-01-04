@@ -67137,3 +67137,425 @@
     "Corrente": "0",
     "Horimetro": "0"
 }
+2023-10-16 13:38:09,996 - INFO: Connected to MQTT Broker!
+2023-10-16 13:38:10,002 - INFO: Received `0000000000000000` from `NVZ/DGT` 
+2023-10-16 13:38:10,002 - INFO: -t NVZ/TBU -m {
+    "Umid": "869",
+    "Temp": "211"
+}
+2023-10-16 13:38:10,002 - INFO: Received `869:211` from `NVZ/TBU` 
+2023-10-16 13:38:10,002 - INFO: Received `-0.67:26.86:42.39:11.06:5813.` from `NVZ/ANALOG` 
+2023-10-16 13:38:10,003 - INFO: Received `220:8500` from `NVZ/RTD` 
+2023-10-16 13:38:10,003 - INFO: -t NVZ/COMPRESS/CP11 -m {
+    "PressSuccao": "-20",
+    "PressDesc": "205",
+    "PressOleoReserv": "396",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-196",
+    "TempOleo": "547",
+    "TempDesc": "559",
+    "CapacidadeCP": "999",
+    "Corrente": "0",
+    "Horimetro": "1021460"
+}
+2023-10-16 13:38:10,003 - INFO: -t NVZ/COMPRESS/CP18 -m {
+    "PressSuccao": "200",
+    "PressDesc": "1080",
+    "PressOleoReserv": "286",
+    "PressOleoFiltro": "67",
+    "TempSuccao": "-20",
+    "TempOleo": "818",
+    "TempDesc": "449",
+    "CapacidadeCP": "993",
+    "Corrente": "384",
+    "Horimetro": "32524"
+}
+2023-10-16 13:38:10,003 - INFO: -t NVZ/COMPRESS/CP12 -m {
+    "PressSuccao": "280",
+    "PressDesc": "286",
+    "PressOleoReserv": "13",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "211",
+    "TempOleo": "216",
+    "TempDesc": "225",
+    "CapacidadeCP": "23",
+    "Corrente": "0",
+    "Horimetro": "51179"
+}
+2023-10-16 13:38:10,003 - INFO: -t NVZ/COMPRESS/CP20 -m {
+    "PressSuccao": "-15",
+    "PressDesc": "112",
+    "PressOleoReserv": "140",
+    "PressOleoFiltro": "107",
+    "TempSuccao": "-300",
+    "TempOleo": "811",
+    "TempDesc": "562",
+    "CapacidadeCP": "1000",
+    "Corrente": "485",
+    "Horimetro": "6771"
+}
+2023-10-16 13:38:10,003 - INFO: -t NVZ/COMPRESS/CP21 -m {
+    "PressSuccao": "-4",
+    "PressDesc": "112",
+    "PressOleoReserv": "140",
+    "PressOleoFiltro": "107",
+    "TempSuccao": "-311",
+    "TempOleo": "793",
+    "TempDesc": "540",
+    "CapacidadeCP": "1000",
+    "Corrente": "471",
+    "Horimetro": "9470"
+}
+2023-10-16 13:38:10,003 - INFO: -t NVZ/COMPRESS/CP22 -m {
+    "PressSuccao": "205",
+    "PressDesc": "116",
+    "PressOleoReserv": "153",
+    "PressOleoFiltro": "279",
+    "TempSuccao": "-69",
+    "TempOleo": "689",
+    "TempDesc": "660",
+    "CapacidadeCP": "994",
+    "Corrente": "451",
+    "Horimetro": "10913"
+}
+2023-10-16 13:38:10,003 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9328205",
+    "DemandaAtivaInstante": "4536.0",
+    "DemandaReativaInstante": "1647.209",
+    "ConsumoAtivoTotal": "927444.4",
+    "PeriodoMedicao": "603429.0",
+    "ConsumoAtivoPeriodo": "1",
+    "DemandaAtivaMedia15min": "4404.96"
+}
+2023-10-16 13:38:10,003 - INFO: Received `0.9328205:4536.0:1647.209:927444.4:603429.0:1:4404.96` from `NVZ/SGATE` 
+2023-10-16 13:38:10,003 - INFO: Received `11100111011110` from `NVZ/MB_HAB` 
+2023-10-16 13:38:10,003 - ERROR: Received invalid message from NVZ/SGATE2: :0.9305184:0.9281492:1769.04:4410.0
+2023-10-16 13:38:10,004 - INFO: Received `:0.9305184:0.9281492:1769.04:4410.0` from `NVZ/SGATE2` 
+2023-10-16 13:38:10,004 - INFO: Received `984:4029:6359:11688:5813` from `NVZ/ANL` 
+2023-10-23 14:09:55,507 - INFO: Connected to MQTT Broker!
+2023-10-23 14:09:55,515 - INFO: Received `0000000000000000` from `NVZ/DGT` 
+2023-10-23 14:09:55,516 - INFO: -t NVZ/TBU -m {
+    "Umid": "869",
+    "Temp": "211"
+}
+2023-10-23 14:09:55,516 - INFO: Received `869:211` from `NVZ/TBU` 
+2023-10-23 14:09:55,516 - INFO: Received `-0.67:26.86:42.39:11.06:5813.` from `NVZ/ANALOG` 
+2023-10-23 14:09:55,516 - INFO: Received `220:8500` from `NVZ/RTD` 
+2023-10-23 14:09:55,516 - INFO: -t NVZ/COMPRESS/CP11 -m {
+    "PressSuccao": "-20",
+    "PressDesc": "205",
+    "PressOleoReserv": "396",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "-196",
+    "TempOleo": "547",
+    "TempDesc": "559",
+    "CapacidadeCP": "999",
+    "Corrente": "0",
+    "Horimetro": "1021460"
+}
+2023-10-23 14:09:55,516 - INFO: -t NVZ/COMPRESS/CP18 -m {
+    "PressSuccao": "200",
+    "PressDesc": "1080",
+    "PressOleoReserv": "286",
+    "PressOleoFiltro": "67",
+    "TempSuccao": "-20",
+    "TempOleo": "818",
+    "TempDesc": "449",
+    "CapacidadeCP": "993",
+    "Corrente": "384",
+    "Horimetro": "32524"
+}
+2023-10-23 14:09:55,517 - INFO: -t NVZ/COMPRESS/CP12 -m {
+    "PressSuccao": "280",
+    "PressDesc": "286",
+    "PressOleoReserv": "13",
+    "PressOleoFiltro": "0",
+    "TempSuccao": "211",
+    "TempOleo": "216",
+    "TempDesc": "225",
+    "CapacidadeCP": "23",
+    "Corrente": "0",
+    "Horimetro": "51179"
+}
+2023-10-23 14:09:55,517 - INFO: -t NVZ/COMPRESS/CP20 -m {
+    "PressSuccao": "-15",
+    "PressDesc": "112",
+    "PressOleoReserv": "140",
+    "PressOleoFiltro": "107",
+    "TempSuccao": "-300",
+    "TempOleo": "811",
+    "TempDesc": "562",
+    "CapacidadeCP": "1000",
+    "Corrente": "485",
+    "Horimetro": "6771"
+}
+2023-10-23 14:09:55,517 - INFO: -t NVZ/COMPRESS/CP21 -m {
+    "PressSuccao": "-4",
+    "PressDesc": "112",
+    "PressOleoReserv": "140",
+    "PressOleoFiltro": "107",
+    "TempSuccao": "-311",
+    "TempOleo": "793",
+    "TempDesc": "540",
+    "CapacidadeCP": "1000",
+    "Corrente": "471",
+    "Horimetro": "9470"
+}
+2023-10-23 14:09:55,517 - INFO: -t NVZ/COMPRESS/CP22 -m {
+    "PressSuccao": "205",
+    "PressDesc": "116",
+    "PressOleoReserv": "153",
+    "PressOleoFiltro": "279",
+    "TempSuccao": "-69",
+    "TempOleo": "689",
+    "TempDesc": "660",
+    "CapacidadeCP": "994",
+    "Corrente": "451",
+    "Horimetro": "10913"
+}
+2023-10-23 14:09:55,517 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9328205",
+    "DemandaAtivaInstante": "4536.0",
+    "DemandaReativaInstante": "1647.209",
+    "ConsumoAtivoTotal": "927444.4",
+    "PeriodoMedicao": "603429.0",
+    "ConsumoAtivoPeriodo": "1",
+    "DemandaAtivaMedia15min": "4404.96"
+}
+2023-10-23 14:09:55,517 - INFO: Received `0.9328205:4536.0:1647.209:927444.4:603429.0:1:4404.96` from `NVZ/SGATE` 
+2023-10-23 14:09:55,517 - INFO: Received `11100111011110` from `NVZ/MB_HAB` 
+2023-10-23 14:09:55,518 - ERROR: Received invalid message from NVZ/SGATE2: :0.9305184:0.9281492:1769.04:4410.0
+2023-10-23 14:09:55,518 - INFO: Received `:0.9305184:0.9281492:1769.04:4410.0` from `NVZ/SGATE2` 
+2023-10-23 14:09:55,518 - INFO: Received `984:4029:6359:11688:5813` from `NVZ/ANL` 
+2023-10-23 14:40:55,963 - ERROR: Failed to connect, return code 5
+2023-10-23 14:40:55,964 - INFO: Disconnected with result code: 5
+2023-10-23 14:40:55,964 - INFO: Publishing Last Will message...
+2023-10-23 14:40:55,964 - ERROR: publish: MQTT client is not connected!
+2023-10-23 14:40:55,964 - INFO: Reconnecting in 1 seconds...
+2023-10-23 14:40:56,990 - INFO: Reconnected successfully!
+2023-10-23 14:40:58,051 - ERROR: Failed to connect, return code 5
+2023-10-23 14:40:58,051 - INFO: Disconnected with result code: 5
+2023-10-23 14:40:58,051 - INFO: Publishing Last Will message...
+2023-10-23 14:40:58,051 - ERROR: publish: MQTT client is not connected!
+2023-10-23 14:40:58,052 - INFO: Reconnecting in 1 seconds...
+2023-10-23 14:40:59,091 - INFO: Reconnected successfully!
+2023-10-23 14:41:01,148 - ERROR: Failed to connect, return code 5
+2023-10-23 14:41:01,149 - INFO: Disconnected with result code: 5
+2023-10-23 14:41:01,149 - INFO: Publishing Last Will message...
+2023-10-23 14:41:01,149 - ERROR: publish: MQTT client is not connected!
+2023-10-23 14:41:01,149 - INFO: Reconnecting in 1 seconds...
+2023-10-23 14:41:02,181 - INFO: Reconnected successfully!
+2023-10-23 14:41:06,234 - ERROR: Failed to connect, return code 5
+2023-10-23 14:41:06,234 - INFO: Disconnected with result code: 5
+2023-10-23 14:41:06,234 - INFO: Publishing Last Will message...
+2023-10-23 14:41:06,234 - ERROR: publish: MQTT client is not connected!
+2023-10-23 14:41:06,234 - INFO: Reconnecting in 1 seconds...
+2023-10-23 14:41:07,265 - INFO: Reconnected successfully!
+2023-10-23 14:41:15,339 - ERROR: Failed to connect, return code 5
+2023-10-23 14:41:15,339 - INFO: Disconnected with result code: 5
+2023-10-23 14:41:15,339 - INFO: Publishing Last Will message...
+2023-10-23 14:41:15,339 - ERROR: publish: MQTT client is not connected!
+2023-10-23 14:41:15,339 - INFO: Reconnecting in 1 seconds...
+2023-10-23 14:46:36,620 - INFO: Connected to MQTT Broker!
+2023-10-23 14:46:36,647 - INFO: Received `D23,M10,h14,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 14:48:53,597 - INFO: Connected to MQTT Broker!
+2023-10-23 14:48:53,623 - INFO: Received `D23,M10,h14,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 15:01:07,336 - INFO: Received `D23,M10,h14,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 15:01:07,695 - INFO: Received `D23,M10,h14,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 15:01:08,055 - INFO: Received `D23,M10,h14,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 15:31:07,941 - INFO: Received `D23,M10,h15,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 15:31:08,300 - INFO: Received `D23,M10,h15,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 15:31:08,920 - INFO: Received `D23,M10,h15,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 16:01:07,295 - INFO: Received `D23,M10,h15,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 16:01:07,654 - INFO: Received `D23,M10,h15,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 16:01:08,015 - INFO: Received `D23,M10,h15,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 16:36:39,672 - INFO: Received `D23,M10,h16,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 16:36:40,013 - INFO: Received `D23,M10,h16,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 16:36:40,373 - INFO: Received `D23,M10,h16,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 17:01:11,954 - INFO: Received `D23,M10,h16,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 17:31:13,428 - INFO: Received `D23,M10,h17,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 17:31:14,049 - INFO: Received `D23,M10,h17,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 17:31:14,248 - INFO: Received `D23,M10,h17,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 18:01:13,091 - INFO: Received `D23,M10,h17,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 18:01:13,434 - INFO: Received `D23,M10,h17,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 18:01:13,791 - INFO: Received `D23,M10,h17,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 18:31:12,835 - INFO: Received `D23,M10,h18,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 18:31:13,443 - INFO: Received `D23,M10,h18,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 18:31:13,655 - INFO: Received `D23,M10,h18,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 19:01:12,934 - INFO: Received `D23,M10,h18,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 19:01:13,294 - INFO: Received `D23,M10,h18,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 19:01:13,635 - INFO: Received `D23,M10,h18,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 19:31:13,199 - INFO: Received `D23,M10,h19,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 19:31:13,559 - INFO: Received `D23,M10,h19,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 19:31:13,900 - INFO: Received `D23,M10,h19,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 20:01:12,629 - INFO: Received `D23,M10,h19,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 20:01:12,987 - INFO: Received `D23,M10,h19,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 20:01:13,330 - INFO: Received `D23,M10,h19,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 20:31:12,888 - INFO: Received `D23,M10,h20,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 20:31:13,226 - INFO: Received `D23,M10,h20,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 20:31:13,587 - INFO: Received `D23,M10,h20,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 21:01:13,185 - INFO: Received `D23,M10,h20,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 21:01:13,544 - INFO: Received `D23,M10,h20,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 21:01:13,885 - INFO: Received `D23,M10,h20,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 21:31:13,260 - INFO: Received `D23,M10,h21,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 21:31:13,600 - INFO: Received `D23,M10,h21,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 21:31:13,959 - INFO: Received `D23,M10,h21,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 22:01:12,763 - INFO: Received `D23,M10,h21,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 22:01:13,102 - INFO: Received `D23,M10,h21,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 22:01:13,462 - INFO: Received `D23,M10,h21,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 22:31:13,386 - INFO: Received `D23,M10,h22,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 22:31:13,545 - INFO: Received `D23,M10,h22,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 22:31:13,825 - INFO: Received `D23,M10,h22,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 23:01:12,481 - INFO: Received `D23,M10,h22,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 23:01:12,843 - INFO: Received `D23,M10,h22,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 23:01:13,184 - INFO: Received `D23,M10,h22,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 23:31:12,747 - INFO: Received `D23,M10,h23,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 23:31:13,086 - INFO: Received `D23,M10,h23,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-23 23:31:13,448 - INFO: Received `D23,M10,h23,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 00:01:13,127 - INFO: Received `D23,M10,h23,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 00:01:13,488 - INFO: Received `D23,M10,h23,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 00:01:13,826 - INFO: Received `D23,M10,h23,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 00:31:13,499 - INFO: Received `D24,M10,h0,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 00:31:13,838 - INFO: Received `D24,M10,h0,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 00:31:14,198 - INFO: Received `D24,M10,h0,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 01:01:12,322 - INFO: Received `D24,M10,h0,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 01:01:12,681 - INFO: Received `D24,M10,h0,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 01:01:13,022 - INFO: Received `D24,M10,h0,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 01:31:13,515 - INFO: Received `D24,M10,h1,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 01:31:13,856 - INFO: Received `D24,M10,h1,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 01:31:14,215 - INFO: Received `D24,M10,h1,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 02:01:12,540 - INFO: Received `D24,M10,h1,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 02:01:12,901 - INFO: Received `D24,M10,h1,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 02:01:13,240 - INFO: Received `D24,M10,h1,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 02:31:12,614 - INFO: Received `D24,M10,h2,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 02:31:12,974 - INFO: Received `D24,M10,h2,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 02:31:13,313 - INFO: Received `D24,M10,h2,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 03:01:12,271 - INFO: Received `D24,M10,h2,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 03:01:12,630 - INFO: Received `D24,M10,h2,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 03:01:12,991 - INFO: Received `D24,M10,h2,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 03:31:12,534 - INFO: Received `D24,M10,h3,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 03:31:12,894 - INFO: Received `D24,M10,h3,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 03:31:13,294 - INFO: Received `D24,M10,h3,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 04:01:11,869 - INFO: Received `D24,M10,h3,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 04:01:12,230 - INFO: Received `D24,M10,h3,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 04:01:12,568 - INFO: Received `D24,M10,h3,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 04:31:12,581 - INFO: Received `D24,M10,h4,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 04:31:12,941 - INFO: Received `D24,M10,h4,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 04:31:13,279 - INFO: Received `D24,M10,h4,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 05:01:13,261 - INFO: Received `D24,M10,h4,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 05:01:13,622 - INFO: Received `D24,M10,h4,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 05:01:13,982 - INFO: Received `D24,M10,h4,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 05:31:11,776 - INFO: Received `D24,M10,h5,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 05:31:12,135 - INFO: Received `D24,M10,h5,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 05:31:12,476 - INFO: Received `D24,M10,h5,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 06:01:12,128 - INFO: Received `D24,M10,h5,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 06:01:12,487 - INFO: Received `D24,M10,h5,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 06:01:12,827 - INFO: Received `D24,M10,h5,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 06:31:11,680 - INFO: Received `D24,M10,h6,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 06:31:12,022 - INFO: Received `D24,M10,h6,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 06:31:12,379 - INFO: Received `D24,M10,h6,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 07:01:12,299 - INFO: Received `D24,M10,h6,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 07:01:12,659 - INFO: Received `D24,M10,h6,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 07:01:13,019 - INFO: Received `D24,M10,h6,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 07:31:11,927 - INFO: Received `D24,M10,h7,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 07:31:12,262 - INFO: Received `D24,M10,h7,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 07:31:12,621 - INFO: Received `D24,M10,h7,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 08:01:12,614 - INFO: Received `D24,M10,h7,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 08:01:12,974 - INFO: Received `D24,M10,h7,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 08:01:13,313 - INFO: Received `D24,M10,h7,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 08:31:11,423 - INFO: Received `D24,M10,h8,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 08:31:11,783 - INFO: Received `D24,M10,h8,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 08:31:12,123 - INFO: Received `D24,M10,h8,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 09:01:12,127 - INFO: Received `D24,M10,h8,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 09:01:12,486 - INFO: Received `D24,M10,h8,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 09:01:12,826 - INFO: Received `D24,M10,h8,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 09:31:11,516 - INFO: Received `D24,M10,h9,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 09:31:11,813 - INFO: Received `D24,M10,h9,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 09:31:12,153 - INFO: Received `D24,M10,h9,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 10:01:12,448 - INFO: Received `D24,M10,h9,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 10:01:12,787 - INFO: Received `D24,M10,h9,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 10:01:13,148 - INFO: Received `D24,M10,h9,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 10:31:11,692 - INFO: Received `D24,M10,h10,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 10:31:12,052 - INFO: Received `D24,M10,h10,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 10:31:12,412 - INFO: Received `D24,M10,h10,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 11:01:11,644 - INFO: Received `D24,M10,h10,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 11:01:12,005 - INFO: Received `D24,M10,h10,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 11:01:12,605 - INFO: Received `D24,M10,h10,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 11:31:11,812 - INFO: Received `D24,M10,h11,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 11:31:12,172 - INFO: Received `D24,M10,h11,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 11:31:12,512 - INFO: Received `D24,M10,h11,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 12:01:11,260 - INFO: Received `D24,M10,h11,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 12:01:11,623 - INFO: Received `D24,M10,h11,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 12:01:11,962 - INFO: Received `D24,M10,h11,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 12:31:11,540 - INFO: Received `D24,M10,h12,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 12:31:11,879 - INFO: Received `D24,M10,h12,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 12:31:12,238 - INFO: Received `D24,M10,h12,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 13:01:11,713 - INFO: Received `D24,M10,h12,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 13:01:12,333 - INFO: Received `D24,M10,h12,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 13:01:12,513 - INFO: Received `D24,M10,h12,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 13:31:11,459 - INFO: Received `D24,M10,h13,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 13:31:11,800 - INFO: Received `D24,M10,h13,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 13:31:12,161 - INFO: Received `D24,M10,h13,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 14:01:11,144 - INFO: Received `D24,M10,h13,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 14:01:11,505 - INFO: Received `D24,M10,h13,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 14:01:11,866 - INFO: Received `D24,M10,h13,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 14:31:11,571 - INFO: Received `D24,M10,h14,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 14:31:11,929 - INFO: Received `D24,M10,h14,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 14:31:12,289 - INFO: Received `D24,M10,h14,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 15:01:11,341 - INFO: Received `D24,M10,h14,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 15:01:11,680 - INFO: Received `D24,M10,h14,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 15:01:12,040 - INFO: Received `D24,M10,h14,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 15:31:11,433 - INFO: Received `D24,M10,h15,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 15:31:11,794 - INFO: Received `D24,M10,h15,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 15:31:12,134 - INFO: Received `D24,M10,h15,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 16:01:11,059 - INFO: Received `D24,M10,h15,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 16:01:11,394 - INFO: Received `D24,M10,h15,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 16:01:12,047 - INFO: Received `D24,M10,h15,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 16:31:11,328 - INFO: Received `D24,M10,h16,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 16:31:11,687 - INFO: Received `D24,M10,h16,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 16:31:12,290 - INFO: Received `D24,M10,h16,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 17:01:10,872 - INFO: Received `D24,M10,h16,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 17:01:11,233 - INFO: Received `D24,M10,h16,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 17:01:11,594 - INFO: Received `D24,M10,h16,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 17:31:11,173 - INFO: Received `D24,M10,h17,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 17:31:11,532 - INFO: Received `D24,M10,h17,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 17:31:11,872 - INFO: Received `D24,M10,h17,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 18:01:11,396 - INFO: Received `D24,M10,h17,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 18:01:11,755 - INFO: Received `D24,M10,h17,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 18:01:12,115 - INFO: Received `D24,M10,h17,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 18:31:11,593 - INFO: Received `D24,M10,h18,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 18:31:11,951 - INFO: Received `D24,M10,h18,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 18:31:12,296 - INFO: Received `D24,M10,h18,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 19:01:10,742 - INFO: Received `D24,M10,h18,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 19:01:11,100 - INFO: Received `D24,M10,h18,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 19:01:11,440 - INFO: Received `D24,M10,h18,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 19:31:11,318 - INFO: Received `D24,M10,h19,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 19:31:11,518 - INFO: Received `D24,M10,h19,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 19:31:11,718 - INFO: Received `D24,M10,h19,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 20:01:10,706 - INFO: Received `D24,M10,h19,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 20:01:11,043 - INFO: Received `D24,M10,h19,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 20:01:11,341 - INFO: Received `D24,M10,h19,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 20:31:10,503 - INFO: Received `D24,M10,h20,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 20:31:10,862 - INFO: Received `D24,M10,h20,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 20:31:11,202 - INFO: Received `D24,M10,h20,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 21:01:10,607 - INFO: Received `D24,M10,h20,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 21:01:10,967 - INFO: Received `D24,M10,h20,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 21:01:11,566 - INFO: Received `D24,M10,h20,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 21:31:11,985 - INFO: Received `D24,M10,h21,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 21:31:12,344 - INFO: Received `D24,M10,h21,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 21:31:12,685 - INFO: Received `D24,M10,h21,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 22:01:11,307 - INFO: Received `D24,M10,h21,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 22:01:11,667 - INFO: Received `D24,M10,h21,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 22:01:12,028 - INFO: Received `D24,M10,h21,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 22:31:11,280 - INFO: Received `D24,M10,h22,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 22:31:11,622 - INFO: Received `D24,M10,h22,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 22:31:11,982 - INFO: Received `D24,M10,h22,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 23:01:10,709 - INFO: Received `D24,M10,h22,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 23:01:11,069 - INFO: Received `D24,M10,h22,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 23:01:11,411 - INFO: Received `D24,M10,h22,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 23:31:10,466 - INFO: Received `D24,M10,h23,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 23:31:10,825 - INFO: Received `D24,M10,h23,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-24 23:31:11,167 - INFO: Received `D24,M10,h23,m0,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-25 00:01:10,525 - INFO: Received `D24,M10,h23,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-25 00:01:10,884 - INFO: Received `D24,M10,h23,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
+2023-10-25 00:01:11,244 - INFO: Received `D24,M10,h23,m30,S15,0,0,0,0,0,0,` from `CM/GSMG1/0A10/OUT` 
