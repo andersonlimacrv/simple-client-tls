@@ -250,7 +250,7 @@ if __name__ == "__main__":
     BROKER = os.getenv("BROKER")
     PORT = int(os.getenv("PORT"))
     TOPIC = os.getenv("TOPIC")
-    USERNAME_CLIENT = "dvp_aSs@23_"
+    USERNAME_CLIENT = os.getenv("USERNAME_CLIENT")
     PASSWORD = os.getenv("PASSWORD")
     # print(f'Broker: {BROKER}, Port: {PORT}, Topic: {TOPIC}, Username: {USERNAME_CLIENT}, Password: {PASSWORD}')
 
