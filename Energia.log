@@ -17457,3 +17457,276 @@
     "DemandaAtivaMedia15min": "4374.72"
 }
 2024-01-26 09:49:53,688 - ERROR: Received invalid message from NVZ/SGATE2: :0.9393186:0.9358624:1602.72:4384.8
+2024-01-30 13:37:42,685 - INFO: Connected to MQTT Broker!
+2024-01-30 13:37:42,687 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9373993",
+    "DemandaAtivaInstante": "4504.468",
+    "DemandaReativaInstante": "1647.059",
+    "ConsumoAtivoTotal": "2748275.0",
+    "ConsumoAtivoPeriodo": "1800680.0",
+    "PeriodoMedicao": "1",
+    "DemandaAtivaMedia15min": "4420.08"
+}
+2024-01-30 13:37:42,688 - ERROR: Received invalid message from NVZ/SGATE2: :0.9327413:0.9354566:1708.56:4425.12
+2024-01-30 13:38:35,770 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9385158",
+    "DemandaAtivaInstante": "4528.452",
+    "DemandaReativaInstante": "1654.267",
+    "ConsumoAtivoTotal": "2748350.0",
+    "ConsumoAtivoPeriodo": "1800754.0",
+    "PeriodoMedicao": "1",
+    "DemandaAtivaMedia15min": "4425.12"
+}
+2024-01-30 13:38:35,773 - ERROR: Received invalid message from NVZ/SGATE2: :0.9332359:0.9354566:1708.56:4425.12
+2024-01-30 13:39:36,541 - ERROR: Received invalid message from NVZ/SGATE2: :0.934083:0.9354566:1708.56:4425.12
+2024-01-30 13:39:36,543 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9386366",
+    "DemandaAtivaInstante": "4989.6",
+    "DemandaReativaInstante": "1800.357",
+    "ConsumoAtivoTotal": "2748425.0",
+    "ConsumoAtivoPeriodo": "1800830.0",
+    "PeriodoMedicao": "1",
+    "DemandaAtivaMedia15min": "4430.16"
+}
+2024-01-30 13:40:36,517 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9420806",
+    "DemandaAtivaInstante": "4536.0",
+    "DemandaReativaInstante": "1514.524",
+    "ConsumoAtivoTotal": "2748498.0",
+    "ConsumoAtivoPeriodo": "1800903.0",
+    "PeriodoMedicao": "1",
+    "DemandaAtivaMedia15min": "4430.16"
+}
+2024-01-30 13:40:36,610 - ERROR: Received invalid message from NVZ/SGATE2: :0.9347907:0.9354566:1708.56:4425.12
+2024-01-30 13:41:43,294 - INFO: Disconnected with result code: 7
+2024-01-30 13:41:43,295 - INFO: Publishing Last Will message...
+2024-01-30 13:41:43,295 - ERROR: Failed to send message to topic teste
+2024-01-30 13:41:43,295 - INFO: Reconnecting in 1 seconds...
+2024-01-30 13:41:44,488 - INFO: Reconnected successfully!
+2024-01-30 13:41:45,844 - INFO: Connected to MQTT Broker!
+2024-01-30 13:54:03,329 - INFO: Connected to MQTT Broker!
+2024-01-30 13:54:03,332 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9355446",
+    "DemandaAtivaInstante": "4536.0",
+    "DemandaReativaInstante": "1658.956",
+    "ConsumoAtivoTotal": "2749485.0",
+    "ConsumoAtivoPeriodo": "1801889.0",
+    "PeriodoMedicao": "1",
+    "DemandaAtivaMedia15min": "4490.64"
+}
+2024-01-30 13:54:03,332 - ERROR: Received invalid message from NVZ/SGATE2: :0.9377487:0.9354566:1663.2:4430.16
+2024-01-30 13:54:42,206 - ERROR: Received invalid message from NVZ/SGATE2: :0.9375331:0.9354566:1663.2:4430.16
+2024-01-30 13:54:42,206 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9356664",
+    "DemandaAtivaInstante": "4536.0",
+    "DemandaReativaInstante": "1803.041",
+    "ConsumoAtivoTotal": "2749561.0",
+    "ConsumoAtivoPeriodo": "1801965.0",
+    "PeriodoMedicao": "1",
+    "DemandaAtivaMedia15min": "4495.68"
+}
+2024-01-30 13:55:42,632 - ERROR: Received invalid message from NVZ/SGATE2: :0.93766:0.9354566:1663.2:4430.16
+2024-01-30 13:55:42,633 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9347994",
+    "DemandaAtivaInstante": "4536.0",
+    "DemandaReativaInstante": "1814.4",
+    "ConsumoAtivoTotal": "2749636.0",
+    "ConsumoAtivoPeriodo": "1802041.0",
+    "PeriodoMedicao": "1",
+    "DemandaAtivaMedia15min": "4500.72"
+}
+2024-01-30 13:57:04,426 - INFO: Disconnected with result code: 7
+2024-01-30 13:57:04,427 - INFO: Publishing Last Will message...
+2024-01-30 13:57:04,427 - ERROR: Failed to send message to topic teste
+2024-01-30 13:57:04,427 - INFO: Reconnecting in 1 seconds...
+2024-01-30 13:57:05,648 - INFO: Reconnected successfully!
+2024-01-30 13:57:06,920 - INFO: Connected to MQTT Broker!
+2024-01-30 13:57:55,111 - INFO: Connected to MQTT Broker!
+2024-01-30 13:57:55,113 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9354982",
+    "DemandaAtivaInstante": "4536.0",
+    "DemandaReativaInstante": "1647.059",
+    "ConsumoAtivoTotal": "2749787.0",
+    "ConsumoAtivoPeriodo": "1802192.0",
+    "PeriodoMedicao": "1",
+    "DemandaAtivaMedia15min": "4510.8"
+}
+2024-01-30 13:57:55,114 - ERROR: Received invalid message from NVZ/SGATE2: :0.9368872:0.9354566:1663.2:4430.16
+2024-01-30 13:58:43,774 - ERROR: Received invalid message from NVZ/SGATE2: :0.9372694:0.9354566:1663.2:4430.16
+2024-01-30 13:58:43,775 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9368852",
+    "DemandaAtivaInstante": "4989.6",
+    "DemandaReativaInstante": "1697.605",
+    "ConsumoAtivoTotal": "2749864.0",
+    "ConsumoAtivoPeriodo": "1802269.0",
+    "PeriodoMedicao": "1",
+    "DemandaAtivaMedia15min": "4525.92"
+}
+2024-01-30 13:59:44,603 - ERROR: Received invalid message from NVZ/SGATE2: :0.9368415:0.9354566:1663.2:4430.16
+2024-01-30 13:59:44,604 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9354462",
+    "DemandaAtivaInstante": "4536.0",
+    "DemandaReativaInstante": "1814.4",
+    "ConsumoAtivoTotal": "2749940.0",
+    "ConsumoAtivoPeriodo": "1802344.0",
+    "PeriodoMedicao": "1",
+    "DemandaAtivaMedia15min": "4536.0"
+}
+2024-01-30 14:00:44,608 - ERROR: Received invalid message from NVZ/SGATE2: :0.9367552:0.9354566:1693.44:4536.0
+2024-01-30 14:00:44,609 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9421795",
+    "DemandaAtivaInstante": "4536.0",
+    "DemandaReativaInstante": "1649.455",
+    "ConsumoAtivoTotal": "2750018.0",
+    "ConsumoAtivoPeriodo": "1802422.0",
+    "PeriodoMedicao": "1",
+    "DemandaAtivaMedia15min": "4546.08"
+}
+2024-01-30 14:01:45,022 - ERROR: Received invalid message from NVZ/SGATE2: :0.936628:0.9354566:1693.44:4536.0
+2024-01-30 14:01:45,023 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9348438",
+    "DemandaAtivaInstante": "4536.0",
+    "DemandaReativaInstante": "1707.831",
+    "ConsumoAtivoTotal": "2750092.0",
+    "ConsumoAtivoPeriodo": "1802497.0",
+    "PeriodoMedicao": "1",
+    "DemandaAtivaMedia15min": "4541.04"
+}
+2024-01-30 14:02:45,439 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9409464",
+    "DemandaAtivaInstante": "4989.6",
+    "DemandaReativaInstante": "1647.209",
+    "ConsumoAtivoTotal": "2750169.0",
+    "ConsumoAtivoPeriodo": "1802574.0",
+    "PeriodoMedicao": "1",
+    "DemandaAtivaMedia15min": "4551.12"
+}
+2024-01-30 14:02:45,440 - ERROR: Received invalid message from NVZ/SGATE2: :0.9365421:0.9354566:1693.44:4536.0
+2024-01-30 14:03:45,756 - ERROR: Received invalid message from NVZ/SGATE2: :0.9359884:0.9354566:1693.44:4536.0
+2024-01-30 14:03:45,834 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9355057",
+    "DemandaAtivaInstante": "4536.0",
+    "DemandaReativaInstante": "1658.956",
+    "ConsumoAtivoTotal": "2750245.0",
+    "ConsumoAtivoPeriodo": "1802649.0",
+    "PeriodoMedicao": "1",
+    "DemandaAtivaMedia15min": "4556.16"
+}
+2024-01-30 14:04:46,159 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9369599",
+    "DemandaAtivaInstante": "4536.0",
+    "DemandaReativaInstante": "1647.059",
+    "ConsumoAtivoTotal": "2750320.0",
+    "ConsumoAtivoPeriodo": "1802725.0",
+    "PeriodoMedicao": "1",
+    "DemandaAtivaMedia15min": "4561.2"
+}
+2024-01-30 14:04:46,160 - ERROR: Received invalid message from NVZ/SGATE2: :0.9361165:0.9354566:1693.44:4536.0
+2024-01-30 14:05:46,579 - ERROR: Received invalid message from NVZ/SGATE2: :0.9359884:0.9354566:1693.44:4536.0
+2024-01-30 14:05:46,580 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9372509",
+    "DemandaAtivaInstante": "4536.0",
+    "DemandaReativaInstante": "1814.4",
+    "ConsumoAtivoTotal": "2750396.0",
+    "ConsumoAtivoPeriodo": "1802800.0",
+    "PeriodoMedicao": "1",
+    "DemandaAtivaMedia15min": "4556.16"
+}
+2024-01-30 14:06:47,020 - ERROR: Received invalid message from NVZ/SGATE2: :0.9360731:0.9354566:1693.44:4536.0
+2024-01-30 14:06:47,021 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9350054",
+    "DemandaAtivaInstante": "4536.0",
+    "DemandaReativaInstante": "1805.912",
+    "ConsumoAtivoTotal": "2750470.0",
+    "ConsumoAtivoPeriodo": "1802875.0",
+    "PeriodoMedicao": "1",
+    "DemandaAtivaMedia15min": "4546.08"
+}
+2024-01-30 14:07:47,341 - ERROR: Received invalid message from NVZ/SGATE2: :0.9360731:0.9354566:1693.44:4536.0
+2024-01-30 14:07:47,417 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.938491",
+    "DemandaAtivaInstante": "4536.0",
+    "DemandaReativaInstante": "1704.195",
+    "ConsumoAtivoTotal": "2750546.0",
+    "ConsumoAtivoPeriodo": "1802950.0",
+    "PeriodoMedicao": "1",
+    "DemandaAtivaMedia15min": "4546.08"
+}
+2024-01-30 14:08:47,839 - ERROR: Received invalid message from NVZ/SGATE2: :0.9359445:0.9354566:1693.44:4536.0
+2024-01-30 14:08:47,840 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9355057",
+    "DemandaAtivaInstante": "4536.0",
+    "DemandaReativaInstante": "1658.804",
+    "ConsumoAtivoTotal": "2750620.0",
+    "ConsumoAtivoPeriodo": "1803025.0",
+    "PeriodoMedicao": "1",
+    "DemandaAtivaMedia15min": "4541.04"
+}
+2024-01-30 14:09:48,255 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9349446",
+    "DemandaAtivaInstante": "4536.0",
+    "DemandaReativaInstante": "1707.617",
+    "ConsumoAtivoTotal": "2750696.0",
+    "ConsumoAtivoPeriodo": "1803100.0",
+    "PeriodoMedicao": "1",
+    "DemandaAtivaMedia15min": "4541.04"
+}
+2024-01-30 14:09:48,257 - ERROR: Received invalid message from NVZ/SGATE2: :0.9362865:0.9354566:1693.44:4536.0
+2024-01-30 14:10:48,534 - ERROR: Received invalid message from NVZ/SGATE2: :0.9359445:0.9354566:1693.44:4536.0
+2024-01-30 14:10:48,610 - INFO: -t NVZ/SGATE -m {
+    "FatorPotenciaInstante": "0.9355466",
+    "DemandaAtivaInstante": "4536.0",
+    "DemandaReativaInstante": "1814.4",
+    "ConsumoAtivoTotal": "2750771.0",
+    "ConsumoAtivoPeriodo": "1803176.0",
+    "PeriodoMedicao": "1",
+    "DemandaAtivaMedia15min": "4541.04"
+}
+2024-01-30 14:12:01,436 - INFO: Disconnected with result code: 7
+2024-01-30 14:12:01,436 - INFO: Publishing Last Will message...
+2024-01-30 14:12:01,436 - ERROR: Failed to send message to topic teste
+2024-01-30 14:12:01,436 - INFO: Reconnecting in 1 seconds...
+2024-01-30 14:12:02,725 - INFO: Reconnected successfully!
+2024-01-30 14:12:04,126 - INFO: Connected to MQTT Broker!
+2024-01-30 14:27:13,198 - INFO: Disconnected with result code: 7
+2024-01-30 14:27:13,198 - INFO: Publishing Last Will message...
+2024-01-30 14:27:13,198 - ERROR: Failed to send message to topic teste
+2024-01-30 14:27:13,198 - INFO: Reconnecting in 1 seconds...
+2024-01-30 14:27:14,687 - INFO: Reconnected successfully!
+2024-01-30 14:27:15,951 - INFO: Connected to MQTT Broker!
+2024-01-30 14:41:23,859 - INFO: Disconnected with result code: 7
+2024-01-30 14:41:23,860 - INFO: Publishing Last Will message...
+2024-01-30 14:41:23,860 - ERROR: Failed to send message to topic teste
+2024-01-30 14:41:23,860 - INFO: Reconnecting in 1 seconds...
+2024-01-30 14:41:25,215 - INFO: Reconnected successfully!
+2024-01-30 14:41:26,837 - INFO: Connected to MQTT Broker!
+2024-01-30 14:56:34,852 - INFO: Disconnected with result code: 7
+2024-01-30 14:56:34,852 - INFO: Publishing Last Will message...
+2024-01-30 14:56:34,853 - ERROR: Failed to send message to topic teste
+2024-01-30 14:56:34,853 - INFO: Reconnecting in 1 seconds...
+2024-01-30 14:56:35,993 - INFO: Reconnected successfully!
+2024-01-30 14:56:37,290 - INFO: Connected to MQTT Broker!
+2024-01-30 15:11:46,371 - INFO: Disconnected with result code: 7
+2024-01-30 15:11:46,371 - INFO: Publishing Last Will message...
+2024-01-30 15:11:46,371 - ERROR: Failed to send message to topic teste
+2024-01-30 15:11:46,371 - INFO: Reconnecting in 1 seconds...
+2024-01-30 15:11:47,815 - INFO: Reconnected successfully!
+2024-01-30 15:11:49,099 - INFO: Connected to MQTT Broker!
+2024-01-30 15:26:58,684 - INFO: Disconnected with result code: 7
+2024-01-30 15:26:58,684 - INFO: Publishing Last Will message...
+2024-01-30 15:26:58,685 - ERROR: Failed to send message to topic teste
+2024-01-30 15:26:58,685 - INFO: Reconnecting in 1 seconds...
+2024-01-30 15:26:59,988 - INFO: Reconnected successfully!
+2024-01-30 15:27:01,411 - INFO: Connected to MQTT Broker!
+2024-01-30 15:42:10,885 - INFO: Disconnected with result code: 7
+2024-01-30 15:42:10,885 - INFO: Publishing Last Will message...
+2024-01-30 15:42:10,886 - ERROR: Failed to send message to topic teste
+2024-01-30 15:42:10,886 - INFO: Reconnecting in 1 seconds...
+2024-01-30 15:42:12,322 - INFO: Reconnected successfully!
+2024-01-30 15:42:13,642 - INFO: Connected to MQTT Broker!
+2024-01-30 15:56:22,342 - INFO: Disconnected with result code: 7
+2024-01-30 15:56:22,342 - INFO: Publishing Last Will message...
+2024-01-30 15:56:22,354 - ERROR: Failed to send message to topic teste
+2024-01-30 15:56:22,355 - INFO: Reconnecting in 1 seconds...
+2024-01-30 15:56:23,617 - INFO: Reconnected successfully!
+2024-01-30 15:56:24,894 - INFO: Connected to MQTT Broker!
