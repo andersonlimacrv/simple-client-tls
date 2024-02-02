@@ -200,5 +200,3 @@ if __name__ == "__main__":
     mqtt_client = MQTTClient(BROKER, PORT, TOPIC, USERNAME_CLIENT, PASSWORD)
     print("Client Mqtt is Running")
     asyncio.run(mqtt_client.start())
-    mqtt_client.disconnect()
-    print("Client Mqtt is Disconnected")
